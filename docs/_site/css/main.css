@@ -172,10 +172,8 @@ body {
   .logo-readium .logo {
     display: block;
     position: absolute;
-    top: 8px;
-    left: 8px;
-    width: 32px;
-    height: 32px;
+    width: 48px;
+    height: 48px;
     background-size: cover;
     background-repeat: no-repeat; }
 
