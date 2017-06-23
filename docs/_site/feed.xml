@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a proximate bible</title>
-    <description>An arcade of musings from my ecouters with curiosity.
+    <description>An arcade of musings from my encouters with curiosity.
 </description>
-    <link>textpotential.github.io/aproximatebible/</link>
-    <atom:link href="textpotential.github.io/aproximatebible/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 22 Jun 2017 21:40:06 -0600</pubDate>
-    <lastBuildDate>Thu, 22 Jun 2017 21:40:06 -0600</lastBuildDate>
+    <link>http://textpotential.github.io/aproximatebible/</link>
+    <atom:link href="http://textpotential.github.io/aproximatebible/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 23 Jun 2017 09:12:16 -0600</pubDate>
+    <lastBuildDate>Fri, 23 Jun 2017 09:12:16 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -53,8 +53,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sun, 30 Nov 2014 07:34:25 -0700</pubDate>
-        <link>textpotential.github.io/aproximatebible/mediator/feature/2014/11/30/mediator_features.html</link>
-        <guid isPermaLink="true">textpotential.github.io/aproximatebible/mediator/feature/2014/11/30/mediator_features.html</guid>
+        <link>http://textpotential.github.io/aproximatebible/mediator/feature/2014/11/30/mediator_features.html</link>
+        <guid isPermaLink="true">http://textpotential.github.io/aproximatebible/mediator/feature/2014/11/30/mediator_features.html</guid>
         
         <category>featured</category>
         
@@ -91,8 +91,8 @@
 
 </description>
         <pubDate>Fri, 29 Aug 2014 08:34:25 -0600</pubDate>
-        <link>textpotential.github.io/aproximatebible/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">textpotential.github.io/aproximatebible/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        <link>http://textpotential.github.io/aproximatebible/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://textpotential.github.io/aproximatebible/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
         
         <category>featured</category>
         
