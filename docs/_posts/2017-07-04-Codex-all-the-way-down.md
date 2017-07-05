@@ -64,10 +64,8 @@ offered by three major manuscript digitization projects?
 
 -   [Codex Sinaiticus](http://www.codexsinaiticus.org)
 -   [Codex Bezae](http://cudl.lib.cam.ac.uk/view/MS-NN-00002-00041/)
--   [Codex Ephraemi
-    Rescriptus](http://gallica.bnf.fr/ark:/12148/btv1b8470433r) - also
-    available through the [gallicabnf iOS
-    app](https://appsto.re/us/FhPFH.i)
+-   [Codex Ephraemi Rescriptus](http://gallica.bnf.fr/ark:/12148/btv1b8470433r) - also
+    available through the [gallicabnf iOS app](https://appsto.re/us/FhPFH.i)
 
 What assumptions do each of these technologies signal and what kinds of
 reading dispositions might they encourage? How would you teach using
