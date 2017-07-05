@@ -3,7 +3,7 @@ gems:
   - jemoji
   - jekyll-paginate
 markdown: kramdown
-permalink: none
+timezone: America/Denver
 
 # Site settings
 title: "a proximate bible"

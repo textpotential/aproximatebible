@@ -18,19 +18,26 @@ for filename in post_filenames:
         # full filename minus .md 
         # rewrite contents to file
 
-        for filename in post_filenames:
-            post_url = os.path.splitext(filename)[0]
-            post_trunc = post_url.split('-', 3)[3]
+        # for filename in post_filenames:
+        #     post_url = os.path.splitext(filename)[0]
+        #     post_trunc = post_url.split('-', 3)[3]
 
-            old_ref = 'post_url ' + post_trunc.lower()
-            new_ref = 'post_url ' + post_url
+        #     old_ref = 'post_url ' + post_trunc.lower()
+        #     new_ref = 'post_url ' + post_url
 
-            contents = contents.replace(old_ref, new_ref)
+        #     contents = contents.replace(old_ref, new_ref)
 
+        
+        # contents = contents.replace('%}', '%}{% endraw %}')
+        # contents = contents.replace('{% post_url', '{% raw %}{% post_url')
+
+        contents = contents.replace('{% raw %}', '')
+        contents = contents.replace('{% endraw %}', '')
         # print(contents)
 
         with open(fullpath, mode='w', encoding='utf-8') as g:
             g.write(contents)
+
 
 
             # if new_soup:
