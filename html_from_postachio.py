@@ -14,6 +14,8 @@ import requests
 import re
 from bs4 import BeautifulSoup
 import pypandoc
+import urllib
+import os
 
 url = 'http://aproximatebible.postach.io'
 
@@ -90,9 +92,7 @@ def write_post_to_file(url):
         f.write(str(post_html))
 
 
-def build_header(html):
-
-    soup = BeautifulSoup(html, 'html.parser')
+def build_header(soup):
 
     # get post title for header
     post_head = soup.find('header')
@@ -109,7 +109,7 @@ def build_header(html):
         img_src = img_tag['src']
         image_line = 'image:\t' + img_src
     else:
-    	image_line = ''
+        image_line = ''
 
     # construct jekyll header from variables
     vars = {'title': post_title, 'date': date_time, 'image': image_line}
@@ -119,19 +119,73 @@ def build_header(html):
     return full_header
 
 
-with open('postachio_html/Codex-all-the-way-down.html', mode='r', encoding='utf-8') as f:
-	contents = f.read()
-	head = build_header(contents)
-	# print(head)
+def make_jekyll_filename(soup):
 
-	soup = BeautifulSoup(contents, 'html.parser')
-	soup.div.unwrap()
-	soup.header.decompose()
-	soup.p.decompose()
+    # get post title for filename
+    post_head = soup.find('header')
+    post_title = post_head.text.strip()
+    file_title = urlify(post_title)
 
-	pdoc_args = ['--atx-headers', '--smart']
-	md_post = pypandoc.convert_text(str(soup), to='md', format='html', extra_args=pdoc_args)
-	print(head+ '\n' + md_post)
+    # get post date
+    date_p = soup.find('p', class_='post-date')
+    time_tag = date_p.find('time')
+    date_time = time_tag['datetime']
+    date = re.match(r'.+?(?=\s)', date_time)
+
+    filename = date.group(0) + '-' + file_title + '.md'
+
+    return filename
+
+
+def trans_rel_links(soup):
+
+    rel_as = soup.find_all('a', href=re.compile(r'^/'))
+    for rel_a in rel_as:
+        beg_href = rel_a['href']
+        name = re.sub('/', '', beg_href)
+        new_href = '{{{{site.baseurl}}}}{{% post_url {file_name} %}}'.format(file_name=name)
+        rel_a['href'] = new_href
+
+    return soup
+
+
+def html_2_md(html, new_path):
+
+    soup = BeautifulSoup(html, 'html.parser')
+
+    head = build_header(soup)
+    post_filename = make_jekyll_filename(soup)
+
+    soup.div.unwrap()
+    soup.header.decompose()
+    soup.p.decompose()
+
+    soup_b = trans_rel_links(soup)
+
+    pdoc_args = ['--atx-headers', '--smart']
+    md_post = pypandoc.convert_text(str(soup_b), to='markdown_github', format='html', extra_args=pdoc_args)
+
+    full_post = head + '\n' + urllib.parse.unquote(md_post)
+
+    with open(new_path + post_filename, mode='w', encoding='utf-8') as g:
+        g.write(full_post)
+
+    return post_filename
+
+
+html_path = 'postachio_html'
+
+for filename in os.listdir(html_path):
+
+    if filename.endswith('.html'):
+
+        fullpath = os.path.join(html_path, filename)
+
+        with open(fullpath, mode='r', encoding='utf-8') as f:
+            contents = f.read()
+
+        new_file = html_2_md(contents, 'docs/_posts/')
+        print(new_file)
 
 # Run these lines to get all the HTML from the site.
 
@@ -149,9 +203,10 @@ with open('postachio_html/Codex-all-the-way-down.html', mode='r', encoding='utf-
 - get post date (done)
 - get first image src (done)
 - build header for post (done)
-- remove first div, header and p object. 
+- build filename from date and title (done)
+- remove first div, header and p object. (done)
 -- soup remove these objects
-- use pandoc to convert HTML to MD in new file
--- pypandoc convert-text to MD with --smart and --atx-headers args
+- use pandoc to convert HTML to MD in new file (done)
+-- pypandoc convert-text to MD with --smart and --atx-headers args (done)
 -- write header to file and then converted MD content
 '''

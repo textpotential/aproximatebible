@@ -1,0 +1,25 @@
+---
+layout:	post
+title:	a proximate interface
+date:	2014-10-03 15:16:19
+
+---
+![Eyewitness to Genocide - facing proximity](http://www.potiondesign.com/wp-content/uploads/2012/08/projectImage57.jpg)
+
+One of the ways we could explore the materiality of a proximate bible would be to build an inter-face, a touch screen sur-face, that cultivates a dis-position of reading that embodies the an-archy of simulacrum, face and thirdspace. This interface would be deeply informed by envisioning bible as a process of cultural history, rather than a product to be commodified and consumed.
+
+> anarchy and Frankfurt school anxiety about commodification - This seems to be a consistent thread that shows up in the ways I articulate this project. I am curious about the ways in which the anarchic meaning making modes of simulacrum, proximity and thirdspace provide ways of imagining humanness in very material ways without becoming mechanisms of commodification and consumption. In a sense, my work is a series of experiments looking toward a way of reading, hence, a way of being human, that resists commodification.
+
+I’ll share two images that might hint toward the experience of encountering this interface. One image that often comes to mind when I imagine a reading app on my iPhone or iPad is the opening scene from the marvelous animated film short called [*The Fantastic Flying Books of Mr. Morris Lessmore*](http://morrislessmore.com).
+
+> I initially had an embed of the entire film short here, but due to the success of the film, it is now available in full on iTunes and they crafted an interactive electronic book app for iOS that has led to a plethora of new reading experiences on mobile devices. All of these items are available at the link above.
+
+[The Fantastic Flying Books of Mr Morris Lessmore Trailer](https://vimeo.com/17164728) from [Moonbot Studios](https://vimeo.com/moonbot) on [Vimeo](https://vimeo.com).
+
+To contexulatize this a bit, I first watched this short before it won an oscar for best animated short and during the horror that was hurricane Katrina, which decimated so much of the landscape in the gulf side states. I vividly remember seeing the swirling storm of flying books in the opening scense of Lessmore’s Books and wondering how many people in New Orleans had experienced something like this without the romantic reconstruction that follows in the film. The reason I share this is because, this stormy and chaotic swirling, full of terror and of loss, also offers moments of emergence. And this combination of terror and emergence is how I imagine the reading process. What if reading could be a process of making moments of emergence out of the infinitely expanding and constantly swirling constellation of artifacts that make up the tradition we call a text or a book? So, we could build an interface that allows us to step into this swirling constellation of artifacts that make up the cultural history of bible and encounter and curate bits of this tradition in the direction of some emergent meaning that participates in the infinite poiesis that is reading.
+
+Sarah Pessin helped envision the second image of this interface, based on her memory of the interactive table display titled [*Eyewitness to Genocide*](http://www.potiondesign.com/project/eyewitness/). As Sarah and I discussed the critical importance of touch and particularity and materiality in the way Levinas describes the encounter with the face, she challenged my extremist tendencies toward questioning the use of words/language as access points or contact points toward meaning. Reminding me of the deep importance of words and language in Levinas, though not words that exist to be consumed into some teleological or totalizing knowledge enterprise, Sarah painted this picture of an interface where a reader would come to the words of a text and as they zoomed in closer to the text, they would see that the words were actually made up of shimmering or swirling artifacts. The closer a reader gets to the words of the text, the more intense this swirling becomes such that the words unravel into the swirling constellation that makes up the ongoing tradition of this text. Somewhat like the experience of trying to hold sand, we can touch it but it resists our grasp. This is how I imagine Levinasian proximity, contact that infinitely resists consumption, touch without grasp. This embodies the anarchy at work in a proximate bible.
+
+Would a reading encounter like those depicted in these images still be considered a book? If we agree that any cultural idea of bible is deeply entangled in the media that have constituted bible, particularly the codex form of book, what would such an interface and reading experience do to cultural ideas of bible?
+
+To explore this material expression of a proximate bible, we will select a very small bit of biblical text as an experimental sample and we will build an interface in conversation with this text. I think Paul’s reading of Exodus 34:29-35 in 2 Corinthians 3 might be a great text to begin with. The tablets, Moses’s veil and Paul’s letter/spirit dichotomy are ripe for proximate encounter.

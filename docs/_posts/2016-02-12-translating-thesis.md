@@ -1,0 +1,69 @@
+---
+layout:	post
+title:	translating thesis
+date:	2016-02-12 13:58:40
+image:	/assets/article_images/949c3a55-3d21-45e1-95f8-261f7222d7ca.png
+---
+Through some difficult and useful conversations with my committee, I have come to some greater clarity on what I wanted from this *a proximate bible* project. The hypothesis governing my work here has been that sustained and careful attention to the ongoing production of a space built on the pedagogical values of increased surface area, annotation of artifacts, and extending conversation can offer a different and legitimate medium (what I call a material media translation) for dissertation and for bible as the cultural dominance of print wanes. The process of producing the space of *a proximate bible*, with the consistent entanglement of form and content (medium and message) provide the thesis for this dissertation as a whole, a nucleus, and a placing.
+
+> Whole, nucleus, and placing are all ways my committee and I have talked about the role of thesis in academic work. Though my rhetoric can, at times, suggest an anxiety about print, I do not intend to argue for the eradication of print modalities, simply the possibility for meaningful alternatives in different media.
+
+Demonstrating sustained and rigorous attention to the relationship between the design of the interfaces, the curation and annotation of artifacts, and the facilitation of conversation within the space of *a proximate bible* can provide a placing (thesis) that foregrounds process over product, though the ongoing construction of the space itself can offer a kind of tangible outcome. Based on my stated values of increased surface area, annotation of artifacts, and extending conversation, this thesis/space can be evaluated in the following ways:
+
+1.  Does the technical design of the constellation of interfaces of *a proximate bible* shape and support the values articulated in the curation and conversation within the space? (e.g. Does an embedded comment engine or a search function that combines post and comments support the values of the space?). This criteria takes seriously the entanglement of form and content, medium and message. New media approaches have a tendency to over emphasize form and print projects can take form for granted and focus exclusively on content.
+
+2.  Is the design of the space responsive to user needs and audience feedback? (e.g. building translation from postach.io to quip for committee and adding zoomability and an email subscription option to the theme.)
+
+3.  Do the smaller bits of writing and interaction provide useful surfaces for engagement and contact with the conversations of the space (increased surface area)? Is there an appropriate balance between connective tissue and fragments? (e.g. does the selection of a given artifact, such as a particular video clip, encourage more engagement or lead to unproductive confusion?)
+
+4.  Do the curation and annotation of artifacts demonstrate careful attention to each artifact including suitable and substantial engagement with the theoretical conversation partners introduced? (e.g. I need more work to demonstrate the value of Benjamin’s *Arcades Project* as a model for the value fragments and artifact annotation. I need to give more sustained attention to the relationship between revealing in Heidegger and anarchy in Levinas.)
+
+5.  Does the space encourage interaction that extends the conversation toward greater attention to the nuance of an artifact and the ideas it generates through struggling with language, asking new questions, and sharing related artifacts?
+
+6.  Do the sustained processes of design, curation, annotation, and conversation offer suggestions for ways in which bible might be performed in a media culture not dominated by print? Does the ongoing and collaborative construction of a space like *a proximate bible* encourage a set of dispositions that can challenge the perceived tendencies of internet media toward shallowness and distraction?
+
+7.  Is the writing throughout the space of high quality, combining both accessibility and artistry?
+
+These suggestions for evaluation principles are only a place to begin. Perhaps there are other criteria that would be fitting for a project like this or ways to clarify the values and mechanisms of these articulated principles? With a set of agreed upon evaluation metrics, could this notion of a sustained and careful attention to the construction of a space function as a thesis?
+
+I am well aware that this suggestion of space as thesis may not be viable or may need more theoretical work to translate in ways that make sense as a doctoral dissertation. In light of this potential impossibility and to signal my respect for our disciplinary traditions, I have composed a draft of a more traditionally structured dissertation with a thesis statement and chapters outlining the argument. Though this proposal does not intend in any way to fold in all of the work done thus far on *a proximate bible*, it constitutes a continuation of this project with a different trajectory. I look forward to the conversations that will shape whatever project we decide to work on together.
+
+***thesis***
+
+Connecting emerging digital reading technologies to the non-linear access afforded by the codex and to the atomization of rabbinic readings of Torah can offer bible an afterlife beyond print as an anarchic interface.
+
+***remediating bible?***
+
+![](/assets/article_images/949c3a55-3d21-45e1-95f8-261f7222d7ca.png)
+
+(Timothy Beal, [*The Rise and Fall of the Bible*](http://amzn.com/B004KABBYK), kindle location 2642)
+
+I will set the stage with Tim Beal’s *Rise and Fall of the Bible*, which asks if the twilight of print might signal the end of bible as a book. How might the cultural phenomenon of bible be performed as the dominance of print wanes? Focusing on one particular technological innovation, non-linear access, and its relationship to one specific reading strategy, atomization, will offer insights into how emerging media interface design can keep bible connected to its ancient reading traditions, while translating these traditions and practices into a new medium.
+
+***translating non-linear access***
+
+![](/assets/article_images/fd4a12a6-8630-4e13-bcb9-77168d1c6c9b.png)
+
+(James O’Donnell, [*Avatars of the Word*](http://amzn.com/067400194X), 54)
+
+Beginning with James O’Donnell’s *Avatars of the Word*, trace the material media translation of non-linear access from the invention of the codex to the reference systems of early manuscripts to print indexes to digital search. Connecting search to this ancient tradition of non-linear access can help contextualize some of the anxiety around the atomization tendencies of new media search practices.
+
+***difficult atomization***
+
+![](/assets/article_images/3f03efb2-ae6e-459f-bc27-ec4586dd4c23.png)
+
+(Michael L. Satlow, [*Creating Judaism*](http://amzn.com/0231134894), 127)
+
+Explore ancient rabbinic Torah reading practices as a different form of atomization that could provide some translatable dispositions to ground the fragmentary reading practices of the internet. Focus on the mechanisms of rabbinic midrash as a difficult atomization, bound to the tradition while infinitely opening to meaning through sustained attention to and interruptive conversation around small fragments of biblical text.
+
+***proximate interface***
+
+![](/assets/article_images/19596c93-d78d-42e3-a309-7247e9c928c2.jpg)
+
+(Emmanuel Levinas, [*Ethics and Infinity*](http://amzn.com/0820701785), 23)
+
+This difficult atomization of rabbinic discourse modeled for Emmanuel Levinas a humanness bound to the other in the face as proximity, a contact without grasp. Use some examples from Levinas’s reflections on rabbinic reading to connect difficult atomization to the operations of proximity in his philosophy of the face. Explore how the proximity of the face to face encounter could provide a framework for new media interfaces that encourage a difficult atomization, where anarchic fragments demand engagement and interrupt content consumption.
+
+***bible as medium: *proxinity****
+
+Return to Tim Beal’s Italy lectures and move from tracing the media of the bible to the possibility of bible *as* medium. I will sketch a prototype design for bible as anarchic interface, outlining how each design element performs (or fails to perform) a proximity of atomization that maintains the tension between the ancient reading traditions of bible and its ongoing media translations.

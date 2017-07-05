@@ -6,8 +6,8 @@
 </description>
     <link>http://textpotential.github.io/aproximatebible/</link>
     <atom:link href="http://textpotential.github.io/aproximatebible/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 04 Jul 2017 20:11:23 -0600</pubDate>
-    <lastBuildDate>Tue, 04 Jul 2017 20:11:23 -0600</lastBuildDate>
+    <pubDate>Wed, 05 Jul 2017 07:10:01 -0600</pubDate>
+    <lastBuildDate>Wed, 05 Jul 2017 07:10:01 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -53,8 +53,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sun, 30 Nov 2014 07:34:25 -0700</pubDate>
-        <link>http://textpotential.github.io/aproximatebible/mediator/feature/2014/11/30/mediator_features.html</link>
-        <guid isPermaLink="true">http://textpotential.github.io/aproximatebible/mediator/feature/2014/11/30/mediator_features.html</guid>
+        <link>http://textpotential.github.io/aproximatebible/mediator/feature/mediator_features.html</link>
+        <guid isPermaLink="true">http://textpotential.github.io/aproximatebible/mediator/feature/mediator_features.html</guid>
         
         <category>featured</category>
         
@@ -140,8 +140,8 @@ these tools? What would you signal regarding the importance of the many
 media layers at work?&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Sep 2014 22:21:53 -0600</pubDate>
-        <link>http://textpotential.github.io/aproximatebible/2014/09/01/Codex-all-the-way-down.html</link>
-        <guid isPermaLink="true">http://textpotential.github.io/aproximatebible/2014/09/01/Codex-all-the-way-down.html</guid>
+        <link>http://textpotential.github.io/aproximatebible/Codex-all-the-way-down.html</link>
+        <guid isPermaLink="true">http://textpotential.github.io/aproximatebible/Codex-all-the-way-down.html</guid>
         
         
       </item>
@@ -152,7 +152,7 @@ media layers at work?&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;p&gt;What if I want to link to &lt;a href=&quot;/aproximatebible/2014/09/01/Codex-all-the-way-down.html&quot;&gt;another post&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;What if I want to link to &lt;a href=&quot;/aproximatebible/Codex-all-the-way-down.html&quot;&gt;another post&lt;/a&gt;?&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
@@ -174,8 +174,8 @@ media layers at work?&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 29 Aug 2014 08:34:25 -0600</pubDate>
-        <link>http://textpotential.github.io/aproximatebible/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://textpotential.github.io/aproximatebible/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        <link>http://textpotential.github.io/aproximatebible/jekyll/update/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://textpotential.github.io/aproximatebible/jekyll/update/welcome-to-jekyll.html</guid>
         
         <category>featured</category>
         

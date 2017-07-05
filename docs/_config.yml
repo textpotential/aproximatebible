@@ -3,6 +3,7 @@ gems:
   - jemoji
   - jekyll-paginate
 markdown: kramdown
+permalink: none
 
 # Site settings
 title: "a proximate bible"
