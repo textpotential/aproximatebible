@@ -4,7 +4,7 @@ title:	pathways and fragments
 date:	2015-01-13 22:18:49
 image:	/assets/article_images/w600_6f49e324fb20c8c8d32dad6ac88990bf.jpg
 ---
-[proposed title]({{site.baseurl}}{% post_url 2014-08-31-whats-in-a-title %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}) | *methodologies* | [bibliography]({{site.baseurl}}{% post_url 2014-10-12-curating-the-conversation %}) | [rationale]({{site.baseurl}}{% post_url 2014-09-01-Book-as-mode-of-living-in-the-world %})
+[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}{% endraw %}) | *methodologies* | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | [rationale]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-Book-as-mode-of-living-in-the-world %}{% endraw %})
 
 It would be hard to identify all of the voices that continue to shape the manner in which I am approaching the performance of this dissertation. Mostly, I am trying to practice a medium for writing and reading that creates spaces for a polyphony (thanks Justin Barber for reminding me of the fecundity in this word) of emergences. One of the deep suspicions undergirding the questions in this project is the tendency of the codex to shape human reading, and therefore human thinking, toward closure.
 
@@ -39,4 +39,4 @@ Much like the streets in a city grid offer a structure that walkers of the city 
 
 All this said, I am practicing a dissertation methodology that creates and participates in an ongoing community of inquiry and takes seriously the fact that medium matters.
 
-[proposed title]({{site.baseurl}}{% post_url 2014-08-31-whats-in-a-title %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}) | *methodologies* | [bibliography]({{site.baseurl}}{% post_url 2014-10-12-curating-the-conversation %}) | [rationale]({{site.baseurl}}{% post_url 2014-09-01-Book-as-mode-of-living-in-the-world %})
+[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}{% endraw %}) | *methodologies* | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | [rationale]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-Book-as-mode-of-living-in-the-world %}{% endraw %})

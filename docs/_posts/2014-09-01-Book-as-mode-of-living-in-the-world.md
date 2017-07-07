@@ -4,7 +4,7 @@ title:	Book as mode of living in the world
 date:	2014-09-01 22:28:35
 image:	/assets/article_images/w600_5690ff808d5865e9793f4787b8600b03.jpg
 ---
-[proposed title]({{site.baseurl}}{% post_url 2014-08-31-whats-in-a-title %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}) | [methodologies]({{site.baseurl}}{% post_url 2015-01-13-pathways-and-fragments %}) | [bibliography]({{site.baseurl}}{% post_url 2014-10-12-curating-the-conversation %}) | *rationale*
+[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}{% endraw %}) | [methodologies]({{site.baseurl}}{% raw %}{% post_url 2015-01-13-pathways-and-fragments %}{% endraw %}) | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | *rationale*
 ![](/assets/article_images/w600_5690ff808d5865e9793f4787b8600b03.jpg)
 ![](/assets/article_images/w600_11b33c85697aabe51b3d00832adf65d7.jpg)
 Levinas, [*Ethics and Infinity*](http://www.worldcat.org/oclc/11650618), 3-4.
@@ -21,4 +21,4 @@ In [*Otherwise Than Being*](http://www.worldcat.org/oclc/38908709), Levinas offe
 
 It is this difficult and productive tension, perhaps a [*Difficult Freedom*](http://www.worldcat.org/oclc/21077530), that drives a proximate bible.
 
-[proposed title]({{site.baseurl}}{% post_url 2014-08-31-whats-in-a-title %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}) | [methodologies]({{site.baseurl}}{% post_url 2015-01-13-pathways-and-fragments %}) | [bibliography]({{site.baseurl}}{% post_url 2014-10-12-curating-the-conversation %}) | *rationale*
+[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}{% endraw %}) | [methodologies]({{site.baseurl}}{% raw %}{% post_url 2015-01-13-pathways-and-fragments %}{% endraw %}) | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | *rationale*

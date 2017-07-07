@@ -4,7 +4,7 @@ title:	consuming thesis
 date:	2016-01-20 19:55:23
 image:	/assets/article_images/e5c54775-829c-48f9-9b3a-8e296e76b0d4.png
 ---
-It is no secret that the idea of thesis makes me uncomfortable. Recently, I have been asked to offer a clearer articulation (thesis) of what I am trying to say about the relationship between Emmanuel Levinas’s philosophy of the face and technologies of reading and writing. After reading back over the conversations of *a proximate bible*, particularly the hints toward these ideas in [proliferation of faces]({{site.baseurl}}{% post_url 2015-03-21-proliferation-of-faces %}), below are the telescoping theses I came up with. Each of these statements can be taken on their own or together.
+It is no secret that the idea of thesis makes me uncomfortable. Recently, I have been asked to offer a clearer articulation (thesis) of what I am trying to say about the relationship between Emmanuel Levinas’s philosophy of the face and technologies of reading and writing. After reading back over the conversations of *a proximate bible*, particularly the hints toward these ideas in [proliferation of faces]({{site.baseurl}}{% raw %}{% post_url 2015-03-21-proliferation-of-faces %}{% endraw %}), below are the telescoping theses I came up with. Each of these statements can be taken on their own or together.
 
 -   Medium matters.
 
@@ -26,7 +26,7 @@ In the space of *a proximate bible*, a single overarching narrative (thesis) doe
 
 ![](/assets/article_images/f5188650-0edf-49fe-811c-12ab8198cd16.png)
 
-we can begin to imagine an *an-archic* performance of thesis (see [anarchic approximations]({{site.baseurl}}{% post_url 2015-01-11-anarchic-approximations %}) for specifics on my use of the term ‘anarchic’). Instead of an originary idea reigning over a work, that then comes to represent the work in its totality, theses can arise in the interfaces that shape the space of a work as it is used. I make claims all over these spaces, as do others, so in one sense, theses abound (or are they unbound?). Yet, this online medium, built from a constellation of interfaces, attempts to practice a translation of thesis from the consumable *arche* of metanarrative to the poeitic fragments of everyday practice.
+we can begin to imagine an *an-archic* performance of thesis (see [anarchic approximations]({{site.baseurl}}{% raw %}{% post_url 2015-01-11-anarchic-approximations %}{% endraw %}) for specifics on my use of the term ‘anarchic’). Instead of an originary idea reigning over a work, that then comes to represent the work in its totality, theses can arise in the interfaces that shape the space of a work as it is used. I make claims all over these spaces, as do others, so in one sense, theses abound (or are they unbound?). Yet, this online medium, built from a constellation of interfaces, attempts to practice a translation of thesis from the consumable *arche* of metanarrative to the poeitic fragments of everyday practice.
 
 > In his reflections on Lyotard’s later writings, Stephen Barker suggests an explicit connection between fragment and *petit récit* in Lyotard (Barker, [“The Weight of Writing: Lyotard’s Anti-Aesthetic in ‘À l’écrit bâté’”](https://books.google.com/books?id=qEaNwpOsonwC&pg=PT90&dq=lyotard+petit+recit+fragment&source=gbs_toc_r&cad=3#v=onepage&q=lyotard petit recit fragment&f=false)).
 

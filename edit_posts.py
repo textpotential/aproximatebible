@@ -1,7 +1,7 @@
 import os
 import re
 
-dir_ = 'docs/_posts'
+dir_ = 'docs/_drafts'
 post_filenames = os.listdir(dir_)
 
 for filename in post_filenames:
@@ -28,11 +28,11 @@ for filename in post_filenames:
         #     contents = contents.replace(old_ref, new_ref)
 
         
-        # contents = contents.replace('%}', '%}{% endraw %}')
-        # contents = contents.replace('{% post_url', '{% raw %}{% post_url')
+        contents = contents.replace('%}', '%}{% endraw %}')
+        contents = contents.replace('{% post_url', '{% raw %}{% post_url')
 
-        contents = contents.replace('{% raw %}', '')
-        contents = contents.replace('{% endraw %}', '')
+        # contents = contents.replace('{% raw %}', '')
+        # contents = contents.replace('{% endraw %}', '')
         # print(contents)
 
         with open(fullpath, mode='w', encoding='utf-8') as g:

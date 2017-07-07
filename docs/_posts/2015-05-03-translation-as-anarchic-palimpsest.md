@@ -4,7 +4,7 @@ title:	translation as anarchic palimpsest
 date:	2015-05-03 16:41:35
 image:	/assets/article_images/80e60c9d-d709-4543-a3d6-daea255560c1.png
 ---
-The quote I referenced in [troubling poiesis]({{site.baseurl}}{% post_url 2015-03-30-troubling-poiesis %}) from William Lovitt translating Martin Heidegger translating Plato in “The Question Concerning Technology,” p. 10, offers a beautiful example of translation enacting an anarchic poiesis.
+The quote I referenced in [troubling poiesis]({{site.baseurl}}{% raw %}{% post_url 2015-03-30-troubling-poiesis %}{% endraw %}) from William Lovitt translating Martin Heidegger translating Plato in “The Question Concerning Technology,” p. 10, offers a beautiful example of translation enacting an anarchic poiesis.
 
 ![](/assets/article_images/80e60c9d-d709-4543-a3d6-daea255560c1.png)
 In the highlighted fragment above, we have an english translation of what was initially published in German (let’s assume Heidegger wrote in German). The passage includes an untranslated sentence of Greek from Plato and then offers a translation. The English text seems to indicate that the translation of the sentence from the *Symposium* was from Greek to German and then German to English. Could Lovitt simply have translated the Greek to English? When Lovitt translates Heidegger’s translation, is he translating Heidegger or Plato or both? Does it matter?
