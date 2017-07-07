@@ -1,6 +1,7 @@
 # Build settings
 gems:
   - jemoji
+  - jekyll-paginate
 markdown: kramdown
 
 # Site settings
