@@ -12,7 +12,7 @@ Why bible as book? Well, in a sense, I agree with Levinas that bible is the book
 
 So, here is a list of questions I have encountered that might help us look more closely at the materiality and infinite or mobian cultural production of bible:
 
-![](/assets/article_images/w600_b8f07606266ff1c8bbf0fbf6c77c0b5d.png)
+![]({{site.baseurl}}/assets/article_images/w600_b8f07606266ff1c8bbf0fbf6c77c0b5d.png)
 An inquiry could be made into each of the above with book in place of bible. Yet, it is this particular material expression of book, which we call bible, that fascinates me, both for the ways in which bible has made book and book has made bible. Borrowing some language from the [material scripture movement](http://materialscripture.blogspot.com), I would hold all of these questions under an umbrella of an approach we might call material bible. Material here points toward the importance of medium (McLuhan) and the value of practice (De Certeau).
 
 > I will expand on Beal’s cultural history, Vasquez’s counter-textualization and Katherine Hale’s “media specific analysis” as part of this material bible conversation.

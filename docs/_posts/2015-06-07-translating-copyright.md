@@ -16,11 +16,11 @@ On one hand, with the notion of palimpsest, I am committed to questioning the as
 
 Perhaps the Creative Commons (CC) licensing options can offer some shifts in our assumptions about authorship? I am changing the CC license of *a proximate bible* to suggest a media translation of authorship that enacts a partial erasure and writing over of the cultural idea of author, without the need to eradicate it. I began this project with an Attribution-NonCommercial-ShareAlike (BY-NC-SA) CC license. Lessig introduces each of these options in the short clip above and you can learn more about the layers of licenses and what each option entails from [Creative Commons](https://creativecommons.org/licenses/). Below are my reflections on each part of the license and why I am keeping them or not.
 
-![](/assets/article_images/efa68420-c756-4eac-bc70-ca62259a56ef.png)
+![]({{site.baseurl}}/assets/article_images/efa68420-c756-4eac-bc70-ca62259a56ef.png)
 
 **Attribution (BY)** is the most basic CC license available. Following the [2002 Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/read), many (i.e. [PLOS](https://www.plos.org/open-access/) and [SPARC](http://www.sparc.arl.org/issues/open-access)) see this CC BY license as the marker of the open access movement. You can see the commitment to minimizing barriers to access that promotes the CC BY license as preferred in this excerpt from the Budapest Initiative:
 
-![](/assets/article_images/ca176b8e-08f9-40aa-8a63-92a109a09191.png)
+![]({{site.baseurl}}/assets/article_images/ca176b8e-08f9-40aa-8a63-92a109a09191.png)
 
 > I’m not sure what they might have meant by ‘give authors control over the integrity of their work’ when the attribution license allows for remix and reuse without regulation. Perhaps, the requirement for attribution allows for an ongoing conversation among layers of the palimpsest that is any work?
 
@@ -32,17 +32,17 @@ Though I am still uncomfortable with the notion of singular author/scholar propo
 
 3.  The demand for attribution promotes the possibility for a kind of contact without grasp (by grasp here, I mean a totalizing consumption or assimilation). One of the reasons I often use images of texts taken from my screen or from a print codex as the medium for quotes in *a proximate bible* is to remind us that these voices come from elsewhere. Attribution can foreground the collaborative encounter that is writing/making and interrupts our tendency to assimilate other voices into our own.
 
-![](/assets/article_images/e72c2970-8d70-4c21-944f-7b83985d560b.png)
+![]({{site.baseurl}}/assets/article_images/e72c2970-8d70-4c21-944f-7b83985d560b.png)
 
 This CC license adds the **ShareAlike (SA)** requirement to the Attribution license. As noted above, this requirement is NOT typically considered necessary for open access works. I considered leaving the SA requirement out of the license for *a proximate bible* to follow the open access guidelines of organizations like PLOS and SPARC. Yet, technologies, laws, and licenses have the potential to shape different dispositions in people. One way to encourage a culture of sharing resources with fewer barriers is to build the demand for sharing into the licensing. An open permission for use and remix should come with a demand to share whatever is made in a similar manner in order to sustain the culture of open access. A great deal of the world’s innovative software over the last few decades has emerged from community sourced projects under GNU General Public Licensing, which supports this [‘copyleft’ approach](https://copyleft.org). A commitment to sharing as well as access builds a culture of creativity that can sustain itself collaboratively.
 
 From my work in bible and material book culture, I think of this ShareAlike component of the CC license as a celebration of the palimpsest or an invitation to participate in the life of a manuscript that never reaches a stable final form. By asking people who might want to ‘use’ or participate in my palimpsestuous work to share their own palimpsests in similar ways, we are creating a sustainable space for tactical consumption in de Certeau’s terms, the infinite poiesis that is the practice of everyday life. What if bible translations embraced a CC BY-SA license? How would this transform the cultural iconicity of bible and its reading practices?
 
-![](/assets/article_images/d83daf0d-6d32-4e5c-84df-e1e6d301ba2e.png)
+![]({{site.baseurl}}/assets/article_images/d83daf0d-6d32-4e5c-84df-e1e6d301ba2e.png)
 
 The CC BY-NC-SA license is the default license we use at Iliff School of Theology for all of our online course materials and design. Instructors can choose to tighten or loosen this license, but this is the place we begin. In addition to the BY-SA components discussed already, this license adds the **NonCommercial (NC)** restriction, which prohibits others from making money on any use/remix of a work. Given the anxieties about intellectual property and the growing attempts to monetize online learning modules, I think it makes sense to protect instructor designed courses in this way. This is also the license that I began with on *a proximate bible*, partially in response to the print embargo question raised by the visiting scholar I mentioned above. Here is a snapshot of the old footer on the site:
 
-![](/assets/article_images/f6d80bfd-2e50-4e4f-8e26-8565b6b83e64.png)
+![]({{site.baseurl}}/assets/article_images/f6d80bfd-2e50-4e4f-8e26-8565b6b83e64.png)
 
 Whether to keep this NonCommercial (NC) component in the CC license for *a proximate bible* remains a difficult decision for me. We have a history of exploitation in the academy and in technology, where some people are willing to make a profit (both monetary and social legitimation) at the expense of others, without acknowledgement of or compensation for their work. Could a restriction on commercial use of a work curb this tendency toward exploitation? Is it equally as likely in this new media age, when content is so easily acquired and rebranded, that a NonCommercial barrier could incentivize the reuse of a work WITHOUT any attribution at all?
 

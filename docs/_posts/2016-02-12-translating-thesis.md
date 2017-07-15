@@ -34,7 +34,7 @@ Connecting emerging digital reading technologies to the non-linear access afford
 
 ***remediating bible?***
 
-![](/assets/article_images/949c3a55-3d21-45e1-95f8-261f7222d7ca.png)
+![]({{site.baseurl}}/assets/article_images/949c3a55-3d21-45e1-95f8-261f7222d7ca.png)
 
 (Timothy Beal, [*The Rise and Fall of the Bible*](http://amzn.com/B004KABBYK), kindle location 2642)
 
@@ -42,7 +42,7 @@ I will set the stage with Tim Beal’s *Rise and Fall of the Bible*, which asks 
 
 ***translating non-linear access***
 
-![](/assets/article_images/fd4a12a6-8630-4e13-bcb9-77168d1c6c9b.png)
+![]({{site.baseurl}}/assets/article_images/fd4a12a6-8630-4e13-bcb9-77168d1c6c9b.png)
 
 (James O’Donnell, [*Avatars of the Word*](http://amzn.com/067400194X), 54)
 
@@ -50,7 +50,7 @@ Beginning with James O’Donnell’s *Avatars of the Word*, trace the material m
 
 ***difficult atomization***
 
-![](/assets/article_images/3f03efb2-ae6e-459f-bc27-ec4586dd4c23.png)
+![]({{site.baseurl}}/assets/article_images/3f03efb2-ae6e-459f-bc27-ec4586dd4c23.png)
 
 (Michael L. Satlow, [*Creating Judaism*](http://amzn.com/0231134894), 127)
 
@@ -58,7 +58,7 @@ Explore ancient rabbinic Torah reading practices as a different form of atomizat
 
 ***proximate interface***
 
-![](/assets/article_images/19596c93-d78d-42e3-a309-7247e9c928c2.jpg)
+![]({{site.baseurl}}/assets/article_images/19596c93-d78d-42e3-a309-7247e9c928c2.jpg)
 
 (Emmanuel Levinas, [*Ethics and Infinity*](http://amzn.com/0820701785), 23)
 

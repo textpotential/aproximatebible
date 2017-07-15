@@ -20,16 +20,16 @@ Two minutes into the NPR interview embedded above, Turkle suggests that ‘face 
 > Two notes here and an aside (within an aside). Aside: I am still unsure about the criteria I use to decide what goes in a note like this and what stays formatted as ‘normal’ text. First, this interview with Turkle is fascinating because it occurs in a studio, with Scott Simon and Sherry Turkle enacting the values espoused by her latest book by talking to one another ‘face-to-face.’ Yet, the interview is made available via digital technologies on NPR’s website. Second, if you hadn’t already noticed, the title of this post is a mashup of Turkle’s new book title and the NPR interview title. In a sense, the question I am after in this entire *a proximate bible* project is whether digital technologies afford us the conditions of possibility for a Levinasian face-to-face?
 
 In both [*Alone Together*](http://amzn.com/B004DL0KW0), 137,
-![](/assets/article_images/d8b98f3d-6fb0-4fbd-ae48-f334101364fc.png)
+![]({{site.baseurl}}/assets/article_images/d8b98f3d-6fb0-4fbd-ae48-f334101364fc.png)
 and [*Reclaiming Conversation*](http://amzn.com/159420555
 8), 342,
-![](/assets/article_images/417a8539-721b-48b9-b38b-8f5e905382f4.png)
+![]({{site.baseurl}}/assets/article_images/417a8539-721b-48b9-b38b-8f5e905382f4.png)
 Turkle draws on Alphonso Lingis’s translation of Levinas’s discussion of ‘Ethics and the Face’ from [*Totality and Infinity*](http://amzn.com/0820702455) (*TI*) in her analysis of robot-human interactions. Here are a few pertinent bits (pun intended) from this section out of Lingis’s translation of *TI*:
 
-![](/assets/article_images/b8d80eb1-4d0c-4376-bad9-2ad321a6f12c.png)
+![]({{site.baseurl}}/assets/article_images/b8d80eb1-4d0c-4376-bad9-2ad321a6f12c.png)
 Here we begin to hear what I have been calling a difficult materiality of the face, where the face is a thing, while at the same time, exceeding its thingness (*TI*, 198).
 
-![](/assets/article_images/865a5974-b9cc-4cd3-8e00-e8b0d5e74540.jpg)
+![]({{site.baseurl}}/assets/article_images/865a5974-b9cc-4cd3-8e00-e8b0d5e74540.jpg)
 This passage (*TI*, 200) reminds us of some of the crucial terms (in English translation) in Levinas’s discussion of the encounter with the face, namely, infinity and proximity. We will not unpack these terms here, but it is important to remember that this discussion of the difficult materiality of the face is deeply connected to the operations of infinity and proximity throughout his work.
 
 The pertinent part of this passage for our discussion here is the bit just below the highlight. In the quotes above from Turkle’s books, we hear ‘the presence of a face initiates the human ethical compact.’ Yet, this passage from *Totality and Infinity* suggests that this ‘presence’ of the face is not a simple manifestation, but instead exceeds ‘what is necessarily plastic in manifestation’ and goes ’above and beyond the manifested and purely phenomenal form, to **present oneself in a mode irreducible to manifestation**.’ (emphasis my own). Encountering the face is *presence otherwise*.
@@ -38,7 +38,7 @@ The pertinent part of this passage for our discussion here is the bit just below
 
 An easy target here for those worried about the impact of recent technologies on human encounter is the idea of ‘…the very straightforwardness of the face to face, without the intermediary of any image…’ (*TI*, 200). From this, we might conclude that some kind of unmediated vision is the only access to the face, particularly with the reference to ‘nudity’ in the same sentence. Yet, if the encounter with the face is a *presence otherwise* and a contact without grasp, then perhaps perception and knowledge of the face are just as mediated by images as SMS, facebook, twitter and the rest? As highlighted in [proliferation of faces]({{site.baseurl}}{% raw %}{% post_url 2015-03-21-proliferation-of-faces %}{% endraw %}), looking at the face may not be the primary mode of ethical encounter (Cohen translating Levinas, [*Ethics and Infinity*](http://amzn.com/0820701785), 85).
 
-![](/assets/article_images/5dce18ea-555b-49d6-8f86-cf769f6595a0.jpg)
+![]({{site.baseurl}}/assets/article_images/5dce18ea-555b-49d6-8f86-cf769f6595a0.jpg)
 Human interaction is mediated by technologies broadly defined, from language and perception in the physical realm to screens and bytes in the digital realm. So, when we compare an encounter in flesh to one via a digital technology like SMS, we are not dealing with the difference between unmediated and mediated encounters, respectively, but simply differently mediated encounters. If we can also agree that media technologies are not neutral, contra Richard Cohen in ‘Ethics and Cybernetics,’ then we are left with a question about the capacity for certain material media environments (e.g. the body and the internet) to host the possibility of the face-to-face, or ethics.
 
 > I look forward to more conversation here with S. Brent Plate’s idea that the senses are the media of the body and how this might overlap with the difficult materiality of the face (see Plate’s ’[The Skin of Religion](http://onlinelibrary.wiley.com/doi/10.1111/j.1939-3881.2012.00228.x/abstract)’).

@@ -6,7 +6,7 @@ image:	/assets/article_images/w600_dde0445b18a099540aa29c5c3f09992c.jpg
 ---
 [proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}{% endraw %}) | [methodologies]({{site.baseurl}}{% raw %}{% post_url 2015-01-13-pathways-and-fragments %}{% endraw %}) | *bibliography* | [rationale]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-Book-as-mode-of-living-in-the-world %}{% endraw %})
 
-![](/assets/article_images/w600_dde0445b18a099540aa29c5c3f09992c.jpg)
+![]({{site.baseurl}}/assets/article_images/w600_dde0445b18a099540aa29c5c3f09992c.jpg)
 
 (6th century mosaic from [Basilica of San Vitale](http://en.m.wikipedia.org/wiki/Basilica_of_San_Vitale#Mosaic_art), Ravenna, Italy. Photo by Michael Hemenway)
 

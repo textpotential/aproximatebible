@@ -6,15 +6,15 @@ image:	/assets/article_images/da16759b-3622-41de-bb45-b9e825f107db.png
 ---
 At a recent Society of Biblical Literature conference session in Atlanta, my friend Tim talked about our present age in terms of a proliferation of media. This term, ‘proliferation,’ struck me as a wonderful expression of creativity and emergence. At a simplistic level, all I mean here by proliferation is a rapid expansion. Yet, this process of expansion carries a notion of explosion and dissemination at a rate that makes it impossible to keep up with traditional demands for classification and categorization. In the first few paragraphs of Bennington and Massumi’s English translation of Lyotard’s [*The Postmodern Condition*](http://amzn.com/0816611734), we find mention of proliferation and technologies (p. 4):
 
-![](/assets/article_images/da16759b-3622-41de-bb45-b9e825f107db.png)
+![]({{site.baseurl}}/assets/article_images/da16759b-3622-41de-bb45-b9e825f107db.png)
 
 Though Marshall McLuhan doesn’t use the term ‘proliferation’ explicitly in either [*Gutenberg Galaxy*](http://amzn.com/144261269X) or [*Understanding Media*](http://amzn.com/1584230738), Taylor and Harris note in [*Critical Theories of Mass Media: Then and Now*](http://amzn.com/0335218113) that ‘a proliferation of new media’ threatening the dominance of print sits right at the junction between these two major works of McLuhan’s.
 
-![](/assets/article_images/99b1a400-757e-40e1-8001-39b67bab312e.png)
+![]({{site.baseurl}}/assets/article_images/99b1a400-757e-40e1-8001-39b67bab312e.png)
 
 Fifty years later, I am still working with the cultural ramifications of ‘the point at which the lineal-visual hegemony of print technology begins to unravel in the **face** of a *proliferation* of new media’ (Taylor and Harris, *Critical Theories of Mass Media*, 92, emphasis added). Taylor and Harris also note the ways in which McLuhan’s writing in *Understanding Media* attempts to perform the characteristics of the new media he explores, eschewing what they call a ‘scholarly *proliferation* of detail and citation.’ This is precisely the approach I have taken in the material media that make up *a proximate bible*. In fact, in one of the [comments on this post](http://aproximatebible.postach.io/post/mapping-interfaces#comment-2464887834), my friend and colleague Gil Rosenberg described the proliferation of media in this project wonderfully, saying:
 
-![](/assets/article_images/2ec5e88c-74a2-4c86-a91d-4a7675ab0b13.png)
+![]({{site.baseurl}}/assets/article_images/2ec5e88c-74a2-4c86-a91d-4a7675ab0b13.png)
 
 I can feel the threat that this proliferation of media might pose to an academy and a biblical society that have constructed an identity out of the desire and acumen for consolidation toward an original thesis, comprehensive encyclopedias, and the pursuit of an original manuscript. Perhaps we can find some ways to translate these demands for consolidation into the constantly emerging landscape that is this particular new media age?
 
@@ -25,7 +25,7 @@ This *a proximate bible* project is far from a proliferation on the scale of goo
 ## composing for web, not print (postach.io and Evernote)
 
 The primary interface with *a proximate bible* for most people will be the web space [a proximate bible](http://aproximatebible.postach.io). The team at [postach.io](http://postach.io) has provided a wonderful public web interface for those of us who love to write and compose in [Evernote](https://www.evernote.com). I have used Evernote for years as an artifact and note aggregator across devices. The mobile sensibilities of Evernote and the sparse formatting demands were what initially drew me to the tool. As I have continued to use Evernote, the interplay of fragment, collection, and search in the interface has become a material media translation for me of the literary montage methodology in Walter Benjamin’s [Arcades Project](http://amzn.com/0674008022).
-![](/assets/article_images/4010a1db-377e-4eb5-8be3-95f6316136a1.png)
+![]({{site.baseurl}}/assets/article_images/4010a1db-377e-4eb5-8be3-95f6316136a1.png)
 
 I have linked an Evernote notebook to [aproximatebible.postach.io](http://aproximatebible.postach.io) through pistach.io’s core Evernote integration. So, anytime I add the tag ‘published’ to a note in this notebook, the Evernote sync process triggers a translation of this note into a web page on the *a proximate bible* site.
 

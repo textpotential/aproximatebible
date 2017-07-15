@@ -59,12 +59,12 @@ Users arrive at app and are presented with the contact translation as NRSV. A to
 
 > Should we keep the contact text phrase on the screen above the swirling constellation to remind user of their path?
 
-![](/assets/article_images/519c0b8b-2033-41a8-87f6-18594eb4c5cc.png)
+![]({{site.baseurl}}/assets/article_images/519c0b8b-2033-41a8-87f6-18594eb4c5cc.png)
 To the left of the constellation will be a clickable cloud of object type toggles to allow filtering of artifacts in constellation by particular object types. All types will be on by default. Clicking on a type marker one time will remove that object type from the constellation and clicking again will bring these objects back into the swirl. To the right of the constellation will be a clickable cloud of concept toggles for filtering in a similar fashion.
 
 > We could have countless clouds or cascading clouds that allowed filtering by different attributes (language, time period, genre, etc.)
 
-![](/assets/article_images/4bc321a2-ea0f-4686-a3af-ce14aeb7e556.png)
+![]({{site.baseurl}}/assets/article_images/4bc321a2-ea0f-4686-a3af-ce14aeb7e556.png)
 Our team discussed having ways to organize the swirling artifacts (e.g. versions) by time or other attribute for pedagogical aims (e.g. show historical trajectory of translations for comparison and showing geneology).
 
 ### item view
@@ -73,7 +73,7 @@ A click on any object will bring it into focus and show annotations, share optio
 
 > I’m guessing we will want annotation moderation of some sort and definitely require account registration to participate like this. I would like to call this participation “translation,” to emphasize the point that participating in the engagement of a text and tradition is translation.
 
-![](/assets/article_images/9850b3b5-3c19-4ffa-ad04-cac4f3487bfa.png)
+![]({{site.baseurl}}/assets/article_images/9850b3b5-3c19-4ffa-ad04-cac4f3487bfa.png)
 Item view will also offer clickable clouds of related concepts and object types as in constellation view. Yet, in item view, a click on a cloud item will take user to a new constellation based on their selection to move to other constellations.
 
 > Maybe the object type cloud would keep user in the same contact translation space but give constellation of similar object types as item. BUT, concept cloud would take user to new constellation not based on contact translation segment, but rather on conceptual attribute. In this case, we would need a way for users to move from conceptual constellation to related contact translation segments? Maybe one of the material limits we put on the interface is that access to constellations is always tied to contact translation segment?

@@ -15,7 +15,7 @@ Most would agree that *what* we read shapes what we know and how we make sense o
 **bible *as* media**
 I have spent the better part of two decades reading this bible *what* closely and reading others write about their reading of it. As important as the content of bible has been in the development and demise of culture, I wonder if *how* we read impacts meaning making as much as *what* we read? Here, I am unabashedly building on Marshall McLuhan’s prescient axiom from the 1960s, “the medium is the message” (McLuhan, [*Understanding Media*](http://amzn.com/B00DIEZI7U)).
 
-![](/assets/article_images/w600_c162742aeacbe8d4a3723cd1347959e1.png)
+![]({{site.baseurl}}/assets/article_images/w600_c162742aeacbe8d4a3723cd1347959e1.png)
 Uh oh, it looks like your embed code is broken
 
 This quote and clip introducing McLuhan and pointing toward his notion of medium sets the stage for bible as a medium, a technology, even an extension of ourselves.

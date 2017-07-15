@@ -4,7 +4,7 @@ title:	Eco-ing anarchy
 date:	2015-07-31 18:36:26
 image:	/assets/article_images/d87d6dd9-98a0-4778-bb22-50def33d5fe3.jpg
 ---
-![](/assets/article_images/d87d6dd9-98a0-4778-bb22-50def33d5fe3.jpg)
+![]({{site.baseurl}}/assets/article_images/d87d6dd9-98a0-4778-bb22-50def33d5fe3.jpg)
 
 I have smart and creative friends making this project with me. My friend [Benjamin Peters](http://benjaminjohnpeters.com/), a fellow doctoral student in the study of religion, texted me this photo of his marks in a print book titled [*The Open Work*](http://amzn.com/0674639766), Anna Cancogni translating Umberto Eco, p. 60. Our exchange offers a fantastic enactment of both the oscillation mentioned by Eco here (SMS exchange of ink markings on a print page) and the distention Ben points toward in his own work on literary meaning making (*a proximate bible* and Eco entangle in Ben’s reading of this passage).
 

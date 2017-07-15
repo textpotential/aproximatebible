@@ -20,14 +20,14 @@ I ended up spending a lot of time considering this question of thesis and trying
 
 If I had to articulate a thesis for this particular post on thesis, it would be what was just suggested in the note above, that *a thesis is the most consumable or commodified interface of a creative work*. Given that *a proximate bible* is exploring reading/writing interfaces that resist the dominance of commodification, can we translate the values of thesis into a medium that is more fragmentary, dynamic, and aggregative? Or not? Let’s imagine thesis undergoing something like the Lyotardian move from university to institute, from metanarrative to *petit récit* or ‘little narrative’ (Lyotard, [*The Postmodern Condition*](http://amzn.com/0816611734), 60)?
 
-![](/assets/article_images/e5c54775-829c-48f9-9b3a-8e296e76b0d4.png)
+![]({{site.baseurl}}/assets/article_images/e5c54775-829c-48f9-9b3a-8e296e76b0d4.png)
 
 In the space of *a proximate bible*, a single overarching narrative (thesis) does not govern the conversation. Instead, theses of the ‘little narrative’ variety **emerge** through use, the ongoing and palimpsestuous struggle of curation and interaction. If we take this Lyotardian notion of little narrative alongside the literary montage methodology of Walter Benjamin’s [*Arcades Project*](http://amzn.com/0674008022),
 
-![](/assets/article_images/f5188650-0edf-49fe-811c-12ab8198cd16.png)
+![]({{site.baseurl}}/assets/article_images/f5188650-0edf-49fe-811c-12ab8198cd16.png)
 
 we can begin to imagine an *an-archic* performance of thesis (see [anarchic approximations]({{site.baseurl}}{% raw %}{% post_url 2015-01-11-anarchic-approximations %}{% endraw %}) for specifics on my use of the term ‘anarchic’). Instead of an originary idea reigning over a work, that then comes to represent the work in its totality, theses can arise in the interfaces that shape the space of a work as it is used. I make claims all over these spaces, as do others, so in one sense, theses abound (or are they unbound?). Yet, this online medium, built from a constellation of interfaces, attempts to practice a translation of thesis from the consumable *arche* of metanarrative to the poeitic fragments of everyday practice.
 
 > In his reflections on Lyotard’s later writings, Stephen Barker suggests an explicit connection between fragment and *petit récit* in Lyotard (Barker, [“The Weight of Writing: Lyotard’s Anti-Aesthetic in ‘À l’écrit bâté’”](https://books.google.com/books?id=qEaNwpOsonwC&pg=PT90&dq=lyotard+petit+recit+fragment&source=gbs_toc_r&cad=3#v=onepage&q=lyotard petit recit fragment&f=false)).
 
-![](/assets/article_images/1e8ca823-dd37-4b4f-9ee9-86df029646a9.png)
+![]({{site.baseurl}}/assets/article_images/1e8ca823-dd37-4b4f-9ee9-86df029646a9.png)
