@@ -29,7 +29,7 @@ baseurl: "/aproximatebible"
 twitter_handle: '@textpotential'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: aproximatebible
 
 #google_analytics: UA-XXXXX-X
 
