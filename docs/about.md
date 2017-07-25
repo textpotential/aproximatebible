@@ -9,4 +9,4 @@ My name is Michael Hemenway. I spend my working life learning from teachers abou
 My work as a technologist and my academic studies in bible and cultural theory consistently inform each other. I remain captivated by the ways we read and how these practices shape the way we imagine the world. I hope this will be a space where we can read closely together and share questions and ideas and artifacts related to the complex system that is bible and human meaning making. The best place to find me is on twitter [@textpotential](https://twitter.com/textpotential). Please, feel free to post a comment in the disqus area of any post on *a proximate bible* to get in touch with me about anyting curious.
 
 Unless indicated otherwise, all materials on this site are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-![]({{site.baseurl}}/assets/article_images/w600_64f2b55fa8737857dc284698d5823d60.jpg)
+![]({{site.baseurl}}/assets/images/w600_64f2b55fa8737857dc284698d5823d60.jpg)
