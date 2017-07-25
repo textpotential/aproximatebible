@@ -4,14 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+My name is Michael Hemenway. I spend my working life learning from teachers about what they value in classroom spaces and imagining how technologies might support them. Denver is my home with my wife April and our children Micah and Amy. [Iliff School of Theology](http://www.iliff.edu) is my employer and my primary professional community but I also do some consulting with [Nida Institute](http://www.nidainstitute.org), the research and training arm of the American Bible Society. I am a student in the [Join Doctoral Program in Religious Studies at the University of Denver and Iliff School of Theology](http://www.du.edu/duiliffjoint/). The community here has been both academically challenging and personally enriching beyond my imagination. I spend my free time cycling this extraordinary city, with regular stops at the many cafes and tap rooms in the neighborhood.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+My work as a technologist and my academic studies in bible and cultural theory consistently inform each other. I remain captivated by the ways we read and how these practices shape the way we imagine the world. I hope this will be a space where we can read closely together and share questions and ideas and artifacts related to the complex system that is bible and human meaning making. The best place to find me is on twitter [@textpotential](https://twitter.com/textpotential). Please, feel free to post a comment in the disqus area of any post on *a proximate bible* to get in touch with me about anyting curious.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Unless indicated otherwise, all materials on this site are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+![]({{site.baseurl}}/assets/article_images/w600_64f2b55fa8737857dc284698d5823d60.jpg)
