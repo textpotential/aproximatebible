@@ -2,7 +2,7 @@
 layout:	post
 title:	Bible on a Roll
 date:	2017-09-01 18:09:00
-image:	https://upload.wikimedia.org/wikipedia/commons/b/ba/The_Great_Isaiah_Scroll_MS_A_%281QIsa%29_-_Google_Art_Project-x3-y0.jpg
+image:	/assets/article_images/1024px-The_Great_Isaiah_Scroll_MS_A_1QIsa_-_Google_Art_Project-x3-y0.jpg
 ---
 
 Before bible became Bible, it was book.
