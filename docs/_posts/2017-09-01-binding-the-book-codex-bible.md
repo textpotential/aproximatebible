@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	Binding the Book: Codex Bible
+title:	Binding the Book - Codex Bible
 date:	2017-09-01 18:25:00
 image:	/assets/article_images/Sinaiticus_Matthew_923-1017.JPG
 ---
