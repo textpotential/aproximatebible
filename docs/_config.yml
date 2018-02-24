@@ -24,8 +24,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://textpotential.github.io"  # the base hostname & protocol for your site
-baseurl: "/aproximatebible"
+url: "http://michaelphemenway.com"  # the base hostname & protocol for your site
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@textpotential'
 
