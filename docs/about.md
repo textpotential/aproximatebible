@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: {{site.baseurl}}/assets/images/w600_64f2b55fa8737857dc284698d5823d60.jpg
+image: /assets/images/w600_64f2b55fa8737857dc284698d5823d60.jpg
 ---
 
 My name is Michael Hemenway. I spend my working life learning from teachers about what they value in classroom spaces and imagining how technologies might support them. Denver is my home with my wife April and our children Micah and Amy. [Iliff School of Theology](http://www.iliff.edu) is my employer and my primary professional community but I also do some consulting with [Nida Institute](http://www.nidainstitute.org), the research and training arm of the American Bible Society. I am a student in the [Join Doctoral Program in Religious Studies at the University of Denver and Iliff School of Theology](http://www.du.edu/duiliffjoint/). The community here has been both academically challenging and personally enriching beyond my imagination. I spend my free time cycling this extraordinary city, with regular stops at the many cafes and tap rooms in the neighborhood.
