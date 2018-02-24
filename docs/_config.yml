@@ -6,7 +6,7 @@ gems:
 markdown: kramdown
 
 # Site settings
-title: "a proximate bible"
+title: "a proximate interface"
 description: > # this means to ignore newlines until "email:"
    An arcade of musings from my encounters with curiosity.
 
@@ -76,4 +76,4 @@ social:
     desc: Email
     share_url:
     share_title:
-    share_link:    
+    share_link:
