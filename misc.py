@@ -12,7 +12,7 @@ def change_file_extension():
         print(filename.replace('.md', '.html'))
 
 
-file = '/Users/mhemenway/git/bai/chapt4.md'
+file = '/Users/mhemenway/git/bai/intro.md'
 
 
 def translate_footnotes(filepath):
