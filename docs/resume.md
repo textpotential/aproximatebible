@@ -34,7 +34,7 @@ I am a solutions architect, instructional designer, and database administrator w
 + **Tools**: git, API, markdown, Jekyll, Jupyter  
 
 ### Experience  
-
+  
 **Library Director** | June 2014 - Present  
 *Iliff School of Theology, Denver, CO*  
 + Architect and implement a new institutional department, combining IT and Library.
