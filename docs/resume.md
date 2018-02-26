@@ -3,8 +3,13 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+<style type='text/css'>
+li { font-size: 16px;
+    line-height: 16px; }
+</style>
 
 # Michael P. Hemenway, Ph.D.
+*I connect organizational needs with technological solutions*
 ---
 [mphemenway@gmail.com](mailto:mphemenway@gmail.com)  
 [michaelphemenway.com](http://michaelphemenway.com)  
@@ -25,10 +30,10 @@ I am a solutions architect, instructional designer, and database administrator w
 + Assess problematic assumptions in existing workflows and implement alternatives.
 
 ### Technologies
-Languages: SQL, Python, XML, HTML, CSS, JavaScript  
-Databases: MS SQL Server, MySQL, SQLite, Postgres, Informix  
-Platforms: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Squarespace, Constant Contact, WordPress, Moodle  
-Tools: git, API, markdown, Jekyll, Jupyter  
+**Languages**: SQL, Python, XML, HTML, CSS, JavaScript  
+**Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix  
+**Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Squarespace, Constant Contact, WordPress, Moodle  
+**Tools**: git, API, markdown, Jekyll, Jupyter  
 
 ### Experience
 **Library Director** | June 2014 - Present  
