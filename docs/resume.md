@@ -13,11 +13,11 @@ custom_css: resume
 [2810 S High St, Denver, CO, 80210](https://goo.gl/maps/iFqRJADJQ4s)  
 [720-722-2654](tel:7207222654)  
 
-### Summary
+### Summary  
 
 I am a solutions architect, instructional designer, and database administrator with nearly 20 years of experience helping organizations creatively explore, design, implement, and adapt technological solutions to address their most pressing business needs. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.
 
-### Skills
+### Skills  
 
 + Architect integrated technological solutions to address complex and dynamic organizational needs.
 + Lead collaborative development teams through end to end development cycle.
@@ -26,14 +26,14 @@ I am a solutions architect, instructional designer, and database administrator w
 + Design and implement robust and agile data integration, storage, and access solutions.
 + Assess problematic assumptions in existing workflows and implement alternatives.
 
-### Technologies
+### Technologies  
 
-**Languages**: SQL, Python, XML, HTML, CSS, JavaScript  
-**Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix  
-**Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Squarespace, Constant Contact, WordPress, Moodle  
-**Tools**: git, API, markdown, Jekyll, Jupyter  
++ **Languages**: SQL, Python, XML, HTML, CSS, JavaScript  
++ **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix  
++ **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Squarespace, Constant Contact, WordPress, Moodle  
++ **Tools**: git, API, markdown, Jekyll, Jupyter  
 
-### Experience
+### Experience  
 
 **Library Director** | June 2014 - Present  
 *Iliff School of Theology, Denver, CO*  
@@ -92,19 +92,19 @@ I am a solutions architect, instructional designer, and database administrator w
 +	Instructed and mentored students through the first year of undergraduate Honors Chemistry.
 +	Prepared lectures, supervised a lab section, and graded coursework.
 
-### Education
+### Education  
 
 **Doctor of Philosophy** | November 2017  
 *University of Denver/Iliff School of Theology, Denver, CO*  
-Joint Doctoral Program in Religious Studies, Biblical Interpretation Concentration  
-Dissertation: *Bible as Interface*
++ Joint Doctoral Program in Religious Studies, Biblical Interpretation Concentration  
++ Dissertation: *Bible as Interface*
 
 **Master of Arts** | May 2006  
 *Denver Seminary, Littleton, CO*  
-Major: Biblical Studies, New Testament Concentration  
-Thesis: *Paul's Theological Hermeneutic in 2 Corinthians 3.*  
++ Major: Biblical Studies, New Testament Concentration  
++ Thesis: *Paul's Theological Hermeneutic in 2 Corinthians 3.*  
 
 **Bachelor of Science** | May 1997  
 *University of Puget Sound, Tacoma, WA*  
-Major: Chemistry, Math Minor  
-Senior Research: *Nuclear Magnetic Resonance Spectroscopy on Inorganic Compounds*  
++ Major: Chemistry, Math Minor  
++ Senior Research: *Nuclear Magnetic Resonance Spectroscopy on Inorganic Compounds*  
