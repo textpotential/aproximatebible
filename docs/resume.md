@@ -2,11 +2,8 @@
 layout: page
 title: Resume
 permalink: /resume/
+custom_css: resume
 ---
-<style type='text/css'>
-li { font-size: 16px;
-    line-height: 16px; }
-</style>
 
 # Michael P. Hemenway, Ph.D.
 *I connect organizational needs with technological solutions*
