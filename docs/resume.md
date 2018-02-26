@@ -6,19 +6,19 @@ custom_css: resume
 ---
 
 # Michael P. Hemenway, Ph.D.
-*I connect organizational needs with technological solutions*
----
+*connecting organizational needs with technological solutions*  
+
 [mphemenway@gmail.com](mailto:mphemenway@gmail.com)  
 [michaelphemenway.com](http://michaelphemenway.com)  
 [2810 S High St, Denver, CO, 80210](https://goo.gl/maps/iFqRJADJQ4s)  
 [720-722-2654](tel:7207222654)  
 
----
-
 ### Summary
+
 I am a solutions architect, instructional designer, and database administrator with nearly 20 years of experience helping organizations creatively explore, design, implement, and adapt technological solutions to address their most pressing business needs. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.
 
 ### Skills
+
 + Architect integrated technological solutions to address complex and dynamic organizational needs.
 + Lead collaborative development teams through end to end development cycle.
 + Communicate with stakeholders and developers to facilitate shared vision, common understanding, and appropriate outcomes.
@@ -27,12 +27,14 @@ I am a solutions architect, instructional designer, and database administrator w
 + Assess problematic assumptions in existing workflows and implement alternatives.
 
 ### Technologies
+
 **Languages**: SQL, Python, XML, HTML, CSS, JavaScript  
 **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix  
 **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Squarespace, Constant Contact, WordPress, Moodle  
 **Tools**: git, API, markdown, Jekyll, Jupyter  
 
 ### Experience
+
 **Library Director** | June 2014 - Present  
 *Iliff School of Theology, Denver, CO*  
 + Architect and implement a new institutional department, combining IT and Library.
@@ -91,6 +93,7 @@ I am a solutions architect, instructional designer, and database administrator w
 +	Prepared lectures, supervised a lab section, and graded coursework.
 
 ### Education
+
 **Doctor of Philosophy** | November 2017  
 *University of Denver/Iliff School of Theology, Denver, CO*  
 Joint Doctoral Program in Religious Studies, Biblical Interpretation Concentration  
