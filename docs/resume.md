@@ -38,7 +38,7 @@ I am a solutions architect, instructional designer, and database administrator w
 ### Employment  
 
 **Director of Academic and Information Technologies** | June 2012 - Present  
-*Iliff School of Theology, Denver, CO*  
+*[Iliff School of Theology](http://www.iliff.edu), Denver, CO*  
 + Architect and support the development of integrated data solutions across the institution.
 + As part of senior leadership team, articulate and implement strategic institutional vision for technologies in concert with strategic plan.
 + Architect online learning platform and develop hybrid pedagogies for new hybrid curriculum.
@@ -47,7 +47,7 @@ I am a solutions architect, instructional designer, and database administrator w
 + Manage IT team staff, administer the IT budget, and manage the ongoing development and adaptation of technological policies.
 
 **Contract Solutions Architect and Instructional Designer** | May 2012 - Present  
-*Nida Institute, Philadelphia, PA*  
+*[Nida Institute](http://www.nidainstitute.org), Philadelphia, PA*  
 + Architect, implement, and administer learning management platform for global translator training
 + Architect and implement online collaborative knowledge base for global bible translation community
 + Architect and implement web presence platform
@@ -56,7 +56,7 @@ I am a solutions architect, instructional designer, and database administrator w
 + Instruction in media theory and philosophy of technology
 
 **Library Director** | June 2014 - Present  
-*Iliff School of Theology, Denver, CO*  
+*[Iliff School of Theology](http://www.iliff.edu/library), Denver, CO*  
 + Architect and implement a new institutional department, combining IT and Library.
 + Reimagine the physical space of the library to provide more collaborative and hybrid opportunities.
 + Support and manage library staff, oversee library budget, and provide institutional reporting for library.
@@ -64,7 +64,7 @@ I am a solutions architect, instructional designer, and database administrator w
 + Migrate library database and discovery software solutions and integrate with existing institutional technologies.
 
 **Academic Technologist, Database Administrator, and IT Team Lead** | January 2008 - May 2012  
-*Iliff School of Theology, Denver, CO*  
+*[Iliff School of Theology](http://www.iliff.edu), Denver, CO*  
 + Built and led an IT team for the institution and stabilized technological infrastructure.
 + Administered centralized institutional database solution, including upgrades, backup and recovery, normalization, and reporting.
 + Architected online course delivery solution and supported faculty course design.
