@@ -15,7 +15,7 @@ custom_css: resume
 
 ### Summary  
 
-I am a solutions architect, instructional designer, and database administrator with 20 years of experience helping organizations creatively explore, design, implement, and adapt technological solutions to address their most pressing business needs. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.
+I am a solutions architect, instructional designer, and database administrator with nearly 20 years of experience helping organizations creatively explore, design, implement, and adapt technological solutions to address their most pressing business needs. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.
 
 ### Skills  
 
