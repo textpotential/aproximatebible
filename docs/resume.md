@@ -96,7 +96,7 @@ I am a solutions architect, instructional designer, and database administrator w
 + Joint Doctoral Program in Religious Studies, Biblical Interpretation Concentration  
 + Dissertation: *Bible as Interface* - Considering the relationship of users and bible as a technological interface from antiquity into our emerging technological landscape.
 
-**Master of Arts** | May 2006
+**Master of Arts** | May 2006  
 *Denver Seminary, Littleton, CO*  
 + Major: Biblical Studies, New Testament Concentration  
 + Thesis: *Paul's Theological Hermeneutic in 2 Corinthians 3*  
