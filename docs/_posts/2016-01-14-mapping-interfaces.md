@@ -22,6 +22,8 @@ This *a proximate bible* project is far from a proliferation on the scale of goo
 
 > This map is a snapshot in time of the landscape, which may change and evolve as new tools become available and needed. I chose Prezi as a mapping tool here because it illustrates a balance of the pathfinding and the exploration possible in new media translations of maps.
 
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/vgtqyihokkt7/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0ejBpcDN6Ym5hZjUzRmV5VFF4aDV3Yy9BPT0&amp;landing_sign=9_-ejkKIy_b8yiWeEYzP5Veey4Z03_NEYVS4COtTbXc"></iframe>
+
 ## composing for web, not print (postach.io and Evernote)
 
 The primary interface with *a proximate bible* for most people will be the web space [a proximate bible](http://aproximatebible.postach.io). The team at [postach.io](http://postach.io) has provided a wonderful public web interface for those of us who love to write and compose in [Evernote](https://www.evernote.com). I have used Evernote for years as an artifact and note aggregator across devices. The mobile sensibilities of Evernote and the sparse formatting demands were what initially drew me to the tool. As I have continued to use Evernote, the interplay of fragment, collection, and search in the interface has become a material media translation for me of the literary montage methodology in Walter Benjamin’s [Arcades Project](http://amzn.com/0674008022).
