@@ -7,7 +7,7 @@ date:	2015-02-26 21:35:20
 <iframe width="420" height="315" src="https://www.youtube.com/embed/2lk3VpzEDgM" frameborder="0" allowfullscreen></iframe>
 (Richard A. Cohen translating Emmanuel Levinas, [*Ethics and Infinity*](http://amzn.com/0820701785), 23).
 
-1. [proposed title]({{ '2014-08-31-whats-in-a-title.html' | relative_url }})
+1. [proposed title]({% post_url 2014-08-31-whats-in-a-title %})
     *a proximate bible* - The indefinite article, the lower case letters, the phonetic resonance with a(p)proximate, and the ethical and spatial register of proximity all point toward the impact of material media translation on the cultural phenomenon of bible.
 
 2. [(hypo)thesis and scope of work](/a-proximate-bible-a-proposal/)
