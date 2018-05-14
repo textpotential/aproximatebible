@@ -4,7 +4,7 @@ title:	a proximate bible - a proposal
 date:	2014-09-01 18:02:19
 
 ---
-[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | *(hypo)thesis and scope of work* | [methodologies]({{site.baseurl}}{% raw %}{% post_url 2015-01-13-pathways-and-fragments %}{% endraw %}) | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | [rationale]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-Book-as-mode-of-living-in-the-world %}{% endraw %})
+This post was the hypothesis and scope section of my [initial dissertation proposal]({% post_url 2015-02-26-proposal-beta %}) in the Spring of 2015.
 
 ![Chagall, Moses receiving tablets, 1966](http://uploads4.wikiart.org/images/marc-chagall/moses-receiving-the-tablets-of-law-1966.jpg)
 [*Chagall, Moses receiving tablets, 1966*](http://uploads4.wikiart.org/images/marc-chagall/moses-receiving-the-tablets-of-law-1966.jpg)
@@ -17,7 +17,7 @@ As with religion (and any other cultural category), bible is nothing short of pr
 
 In the twilight of the codex as a dominant cultural form, what will bible become? Better yet, how will bible be practiced? What markings will remain of the codex in the palimpsestuous mobile and digital cultural translations of bible occurring today and into tomorrow?
 
-To explore these and related questions, *a proximate bible* will explore three modes of [anarchic meaning making]({{site.baseurl}}{% raw %}{% post_url 2015-01-11-anarchic-approximations %}{% endraw %}) (simulacrum, thirdspace and face-to-face) as they intersect three experiments in [material bible]({{site.baseurl}}{% raw %}{% post_url 2014-10-25-material-bible-bible-as-book %}{% endraw %}):
+To explore these and related questions, *a proximate bible* will explore three modes of [anarchic meaning making]({% post_url 2015-01-11-anarchic-approximations %}) (simulacrum, thirdspace and face-to-face) as they intersect three experiments in [material bible]({% post_url 2014-10-25-material-bible-bible-as-book %}):
 
 1.  **scroll to codex to kindle: translating the book**
     How do material book technologies relate to constructions of scripture and religious identity in antiquity and today? Looking at media evolution as a kind of ongoing intersemiotic translation, I will focus on the advent and expansion of *non-linear access* as bible has moved from scroll to codex to kindle. As with all translations, each transformation involves gain and loss, similarity and difference, revealing and concealing. As book undergoes a media translation on the scale of the printing press, the material practices that constitute the cultural phenomenon of bible will undoubtedly change as will the identities of those who call themselves people of the book.
@@ -25,5 +25,3 @@ To explore these and related questions, *a proximate bible* will explore three m
     What can we learn about the spatiality of reading from a close look at the role of the veil in the apostle Paul’s use of Sinai revelation tradition in 2 Corinthians 3? We move from the simulacral tablets and veiled face of Moses in Exodus 34 to the stark binaries and illuminated spiritual reading of Moses in 2 Corinthians 3. In a textual analysis of the materiality of reading and revelation, the veil enacts a Soja-like thirdspace, a place where historicality, sociality and spatiality entangle to make bible.
 3.  **facing the deep: bible as anarchic practice**
     What would a mobile app look like and what technologies would it use to provide a space to practice the anarchy of bible? Reading *al-paneh tehom* in Genesis 1.2 alongside Emmanuel Levinas’s philosophy of the face, I will design a mobile bible app that will perform the anarchy and materiality of proximity explored throughout *a proximate bible*. Using technologies such as Natural Language Processing, Optical Character Recognition, and Object Oriented Databases to augment mobile collaborative curation tools, we will see the words of bible become a sur-face that enables contact with and participation in the infinite and uncontainable tradition that continues to construct the cultural phenomenon of bible. As an initial case study for this application, I will focus on the veil tradition explored in *(re)placing the veil*.
-
-[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | *(hypo)thesis and scope of work* | [methodologies]({{site.baseurl}}{% raw %}{% post_url 2015-01-13-pathways-and-fragments %}{% endraw %}) | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | [rationale]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-Book-as-mode-of-living-in-the-world %}{% endraw %})

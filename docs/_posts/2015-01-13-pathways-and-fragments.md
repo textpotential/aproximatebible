@@ -4,7 +4,7 @@ title:	pathways and fragments
 date:	2015-01-13 22:18:49
 image:	/assets/article_images/w600_6f49e324fb20c8c8d32dad6ac88990bf.jpg
 ---
-[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}{% endraw %}) | *methodologies* | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | [rationale]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-Book-as-mode-of-living-in-the-world %}{% endraw %})
+This post was the methodologies section of my [initial dissertation proposal]({% post_url 2015-02-26-proposal-beta %}) in the Spring of 2015.
 
 It would be hard to identify all of the voices that continue to shape the manner in which I am approaching the performance of this dissertation. Mostly, I am trying to practice a medium for writing and reading that creates spaces for a polyphony (thanks Justin Barber for reminding me of the fecundity in this word) of emergences. One of the deep suspicions undergirding the questions in this project is the tendency of the codex to shape human reading, and therefore human thinking, toward closure.
 
@@ -38,5 +38,3 @@ Much like the streets in a city grid offer a structure that walkers of the city 
 > Following De Certeau and Higmore’s graphic, here I link strategy and place as indicating structured ‘proper’ location. Yet, I am still grappling with the difference between place and space in De Certeau and other thinkers who deal with human geography such as Tim Cresswell, Jacob Kinnard and Edward Soja. For now, I tend away from De Certeau’s articulation of space as practiced place ([*The Practice of Everyday Life*](http://amzn.com/0520271459), 117) and align more with Cresswell’s opposite suggestion of place as practiced space ([*Place: A Short Introduction*](http://amzn.com/1405106727), 11).
 
 All this said, I am practicing a dissertation methodology that creates and participates in an ongoing community of inquiry and takes seriously the fact that medium matters.
-
-[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}{% endraw %}) | *methodologies* | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | [rationale]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-Book-as-mode-of-living-in-the-world %}{% endraw %})

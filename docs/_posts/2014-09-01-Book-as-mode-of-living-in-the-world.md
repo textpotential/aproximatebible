@@ -4,8 +4,8 @@ title:	Book as mode of living in the world
 date:	2014-09-01 22:28:35
 image:	/assets/article_images/w600_5690ff808d5865e9793f4787b8600b03.jpg
 ---
-[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}{% endraw %}) | [methodologies]({{site.baseurl}}{% raw %}{% post_url 2015-01-13-pathways-and-fragments %}{% endraw %}) | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | *rationale*
-![]({{site.baseurl}}/assets/article_images/w600_5690ff808d5865e9793f4787b8600b03.jpg)
+This post was the rationale section of my [initial dissertation proposal]({% post_url 2015-02-26-proposal-beta %}) in the Spring of 2015.
+
 ![]({{site.baseurl}}/assets/article_images/w600_11b33c85697aabe51b3d00832adf65d7.jpg)
 Levinas, [*Ethics and Infinity*](http://www.worldcat.org/oclc/11650618), 3-4.
 
@@ -20,5 +20,3 @@ Reading books and the technologies we use to do this have something to say about
 In [*Otherwise Than Being*](http://www.worldcat.org/oclc/38908709), Levinas offers another glimpse of his passion for books and their role in his philosophical inquiry. Here, we find a difficult and productive tension between the totality of the bound spine of a codex and the infinite interruption that is reading ([*Otherwise Than Being*](http://www.worldcat.org/oclc/38908709), 170-71).
 
 It is this difficult and productive tension, perhaps a [*Difficult Freedom*](http://www.worldcat.org/oclc/21077530), that drives a proximate bible.
-
-[proposed title]({{site.baseurl}}{% raw %}{% post_url 2014-08-31-whats-in-a-title %}{% endraw %}) | [(hypo)thesis and scope of work]({{site.baseurl}}{% raw %}{% post_url 2014-09-01-a-proximate-bible-a-proposal %}{% endraw %}) | [methodologies]({{site.baseurl}}{% raw %}{% post_url 2015-01-13-pathways-and-fragments %}{% endraw %}) | [bibliography]({{site.baseurl}}{% raw %}{% post_url 2014-10-12-curating-the-conversation %}{% endraw %}) | *rationale*
