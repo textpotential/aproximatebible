@@ -10,8 +10,7 @@ custom_css: resume
 
 [mphemenway@gmail.com](mailto:mphemenway@gmail.com)  
 [michaelphemenway.com](http://michaelphemenway.com)  
-2810 S High St, Denver, CO, 80210  
-720-722-2654  
+Denver, Colorado  
 
 ### Summary  
 
@@ -37,6 +36,12 @@ I am a solutions architect, instructional designer, and database administrator w
 
 ### Employment  
 
+**Chief Information Officer** | June 2018 - Present  
+*[Iliff School of Theology](http://www.iliff.edu), Denver, CO*  
++ Represent Technologies and Library on the senior leadership team.
++ Architect Institutional Data Repository for ongoing assessment and institution wide analytics and data visualization.
++ Develop and lead a laboratory model to bring together staff, faculty, and board members in experimental strategic initiatives.
+
 **Director of Academic and Information Technologies** | June 2012 - Present  
 *[Iliff School of Theology](http://www.iliff.edu), Denver, CO*  
 + Architect and support the development of integrated data solutions across the institution.
@@ -55,7 +60,7 @@ I am a solutions architect, instructional designer, and database administrator w
 + Technological support for events and event planning
 + Instruction in media theory and philosophy of technology
 
-**Library Director** | June 2014 - Present  
+**Library Director** | June 2014 - May 2018  
 *[Iliff School of Theology](http://www.iliff.edu/library), Denver, CO*  
 + Architect and implement a new institutional department, combining IT and Library.
 + Reimagine the physical space of the library to provide more collaborative and hybrid opportunities.
