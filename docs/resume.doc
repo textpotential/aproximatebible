@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title>Resume</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<div id="header">
+<h1 class="title">Resume</h1>
+</div>
+<h1 id="michael-p.-hemenway-ph.d.">Michael P. Hemenway, Ph.D.</h1>
+<p><em>connecting organizational needs with technological solutions</em></p>
+<p><a href="mailto:mphemenway@gmail.com">mphemenway@gmail.com</a><br />
+<a href="http://michaelphemenway.com">michaelphemenway.com</a><br />
+Denver, Colorado</p>
+<h3 id="summary">Summary</h3>
+<p>I am a solutions architect, instructional designer, and database administrator with nearly 20 years of experience helping organizations creatively explore, design, implement, and adapt technological solutions to address their most pressing business needs. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.</p>
+<h3 id="skills">Skills</h3>
+<ul>
+<li>Architect integrated technological solutions to address complex and dynamic organizational needs.</li>
+<li>Lead collaborative development teams through end to end development cycle.</li>
+<li>Communicate with stakeholders and developers to facilitate shared vision, common understanding, and appropriate outcomes.</li>
+<li>Design custom online learning spaces for coursework, on-demand training, and communities of discourse.</li>
+<li>Design and implement robust and agile data integration, storage, and access solutions.</li>
+<li>Assess problematic assumptions in existing workflows and implement alternatives.</li>
+<li>Work independently and remotely while maintaining a robust institutional presence.</li>
+<li>Strong grasp of the complexities of higher education administration, working with all areas of an institution's constituent lifecycle and all areas of management.</li>
+</ul>
+<h3 id="technologies">Technologies</h3>
+<ul>
+<li><strong>Languages</strong>: SQL, Python, XML, HTML, CSS, JavaScript<br />
+</li>
+<li><strong>Databases</strong>: MS SQL Server, MySQL, SQLite, Postgres, Informix<br />
+</li>
+<li><strong>Platforms</strong>: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard<br />
+</li>
+<li><strong>Tools</strong>: git, API, markdown, pandoc, Jekyll, Jupyter</li>
+</ul>
+<h3 id="employment">Employment</h3>
+<p><strong>Chief Information Officer</strong> | June 2018 - Present<br />
+<em><a href="http://www.iliff.edu">Iliff School of Theology</a>, Denver, CO</em><br />
++ Represent Technologies and Library on the senior leadership team. + Architect Institutional Data Repository for ongoing assessment and institution wide analytics and data visualization. + Develop and lead a laboratory model to bring together staff, faculty, and board members in experimental strategic initiatives.</p>
+<p><strong>Director of Academic and Information Technologies</strong> | June 2012 - Present<br />
+<em><a href="http://www.iliff.edu">Iliff School of Theology</a>, Denver, CO</em><br />
++ Architect and support the development of integrated data solutions across the institution. + As part of senior leadership team, articulate and implement strategic institutional vision for technologies in concert with strategic plan. + Architect online learning platform and develop hybrid pedagogies for new hybrid curriculum. + Migrated online learning management system (Moodle --&gt; Canvas) and translated course design into new platform + Implemented community knowledge base. + Manage IT team staff, administer the IT budget, and manage the ongoing development and adaptation of technological policies.</p>
+<p><strong>Contract Solutions Architect and Instructional Designer</strong> | May 2012 - Present<br />
+<em><a href="http://www.nidainstitute.org">Nida Institute</a>, Philadelphia, PA</em><br />
++ Architect, implement, and administer learning management platform for global translator training + Architect and implement online collaborative knowledge base for global bible translation community + Architect and implement web presence platform + Design online learning spaces for hybrid and on-ground training events + Technological support for events and event planning + Instruction in media theory and philosophy of technology</p>
+<p><strong>Library Director</strong> | June 2014 - May 2018<br />
+<em><a href="http://www.iliff.edu/library">Iliff School of Theology</a>, Denver, CO</em><br />
++ Architect and implement a new institutional department, combining IT and Library. + Reimagine the physical space of the library to provide more collaborative and hybrid opportunities. + Support and manage library staff, oversee library budget, and provide institutional reporting for library. + Consolidate strategic partner relationship with the University of Denver to increase access to electronic resources. + Migrate library database and discovery software solutions and integrate with existing institutional technologies.</p>
+<p><strong>Academic Technologist, Database Administrator, and IT Team Lead</strong> | January 2008 - May 2012<br />
+<em><a href="http://www.iliff.edu">Iliff School of Theology</a>, Denver, CO</em><br />
++ Built and led an IT team for the institution and stabilized technological infrastructure. + Administered centralized institutional database solution, including upgrades, backup and recovery, normalization, and reporting. + Architected online course delivery solution and supported faculty course design. + Implemented new solutions for support tickets (Zendesk) and email (G Suite)</p>
+<p><strong>Database Administrator</strong> | September 2001 - July 2007<br />
+<em>Denver Seminary, Littleton, CO</em><br />
++ Primary database and application support for all departmental areas. + Trained staff on business applications related to institutional data. + Architected and implemented data integration solutions within and across institutional business units. + Migrated Student Information System from Jenzabar CX to PowerCampus. + Developed a collaborative technology team and positive support culture for the institution.</p>
+<p><strong>Facilitator/Instructor</strong> | June 2000 - August 2001<br />
+<em>Information Technology Institute, Denver, CO</em><br />
++ Facilitated students in both classroom and small group settings in applied information technology. + Delivered curriculum in the areas of programming and database design and development. + Developed curriculum for Visual Basic and database design.</p>
+<p><strong>Research Technician</strong> | May 1999 - May 2000<br />
+<em>Eltron Research, Inc., Boulder, CO</em><br />
++ Designed, implemented and adapted experiments using oxygen conducting ceramic materials. + Worked with Ph.D. scientists to evaluate experimental design and develop new methodologies.</p>
+<h3 id="education">Education</h3>
+<p><strong>Doctor of Philosophy</strong> | November 2017<br />
+<em>University of Denver/Iliff School of Theology, Denver, CO</em><br />
++ Joint Doctoral Program in Religious Studies, Biblical Interpretation Concentration<br />
++ Dissertation: <em>Bible as Interface</em> - Considering the relationship of users and bible as a technological interface from antiquity into our emerging technological landscape.</p>
+<p><strong>Master of Arts</strong> | May 2006<br />
+<em>Denver Seminary, Littleton, CO</em><br />
++ Major: Biblical Studies, New Testament Concentration<br />
++ Thesis: <em>Paul's Theological Hermeneutic in 2 Corinthians 3</em></p>
+<p><strong>Bachelor of Science</strong> | May 1997<br />
+<em>University of Puget Sound, Tacoma, WA</em><br />
++ Major: Chemistry, Math Minor<br />
++ Senior Research: <em>Nuclear Magnetic Resonance Spectroscopy on Inorganic Compounds</em></p>
+</body>
+</html>
