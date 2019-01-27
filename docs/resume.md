@@ -38,11 +38,14 @@ I am a solutions architect, instructional designer, and database administrator w
 
 **Chief Information Officer** | June 2018 - Present  
 *[Iliff School of Theology](http://www.iliff.edu), Denver, CO*  
-+ Represent Technologies and Library on the senior leadership team.
++ Represent technologies and library on the senior leadership team.
++ Oversee technology and library budgets and personnel.
++ Found and Direct Artificial Intelligence Institute, developing curriculum and code with industry partners.
++ Found and Direct Experimental Humanities Lab.
 + Architect Institutional Data Repository for ongoing assessment and institution wide analytics and data visualization.
 + Develop and lead a laboratory model to bring together staff, faculty, and board members in experimental strategic initiatives.
 
-**Director of Academic and Information Technologies** | June 2012 - Present  
+**Director of Academic and Information Technologies** | June 2012 - June 2018  
 *[Iliff School of Theology](http://www.iliff.edu), Denver, CO*  
 + Architect and support the development of integrated data solutions across the institution.
 + As part of senior leadership team, articulate and implement strategic institutional vision for technologies in concert with strategic plan.
