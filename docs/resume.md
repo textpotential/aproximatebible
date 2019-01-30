@@ -14,7 +14,7 @@ Denver, Colorado
 
 ### Summary  
 
-I am a solutions architect, instructional designer, and database administrator with nearly 20 years of experience helping organizations creatively explore, design, implement, and adapt technological solutions to address their most pressing business needs. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.
+I am a translator. I help organizations translate complex business needs into elegant technological solutions. Nearly 20 years of experience as a solutions architect, instructional designer, and database administrator has taught me to creatively explore, design, implement, and adapt technologies that fit many different environments. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.
 
 ### Skills  
 
@@ -33,6 +33,37 @@ I am a solutions architect, instructional designer, and database administrator w
 + **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix  
 + **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard  
 + **Tools**: git, API, markdown, pandoc, Jekyll, Jupyter  
+
+### Consulting Projects  
+
+**Solutions Architect and Lead Instructional Designer** | May 2012 - Present  
+*[Nida Institute](http://nidaschool.org), Philadelphia, PA*  
++ Architect implement, and administer learning management platform for global translator training
++ Architect and implement online collaborative knowledge base for global bible translation community
++ Design online learning spaces for hybrid and on-ground training events
++ Technological support for events and event planning
++ Instruction in media theory and philosophy of technology
+
+**Design Hybrid Accreditation Visit Model** | April 2018 - Present  
+*Association of Theological Schools, Pittsburgh, PA*  
++ Analyze existing visit workflows
++ Translate workflows to hybrid team environment
++ Build online team spaces for visits
++ Communicate organizational and technical changes to stakeholders
++ Train support staff
+
+**Database Redesign/Cloud Migration** | November 2018 - January 2019  
+*COR-Pro Systems, Houston, TX*  
++ Discover pain points in existing ERP software solution
++ Evaluate database structure for sound efficiency, normalization, and indexing
++ Proposed changes to data model for faster queries and archivability
++ Proposed cloud translation of existing application to Sales Force platform
+
+**Design Hybrid Community Spaces** | June 2018 - Present  
+*The Episcopal Church in Colorado, Denver, CO*  
++ Analyze existing community formation processes
++ Translate existing processes into hybrid community model 
++ Build and deliver online training for community facilitators
 
 ### Employment  
 
@@ -54,15 +85,6 @@ I am a solutions architect, instructional designer, and database administrator w
 + Implemented community knowledge base.
 + Manage IT team staff, administer the IT budget, and manage the ongoing development and adaptation of technological policies.
 
-**Contract Solutions Architect and Instructional Designer** | May 2012 - Present  
-*[Nida Institute](http://www.nidainstitute.org), Philadelphia, PA*  
-+ Architect, implement, and administer learning management platform for global translator training
-+ Architect and implement online collaborative knowledge base for global bible translation community
-+ Architect and implement web presence platform
-+ Design online learning spaces for hybrid and on-ground training events
-+ Technological support for events and event planning
-+ Instruction in media theory and philosophy of technology
-
 **Library Director** | June 2014 - May 2018  
 *[Iliff School of Theology](http://www.iliff.edu/library), Denver, CO*  
 + Architect and implement a new institutional department, combining IT and Library.
@@ -75,8 +97,8 @@ I am a solutions architect, instructional designer, and database administrator w
 *[Iliff School of Theology](http://www.iliff.edu), Denver, CO*  
 + Built and led an IT team for the institution and stabilized technological infrastructure.
 + Administered centralized institutional database solution, including upgrades, backup and recovery, normalization, and reporting.
-+ Architected online course delivery solution and supported faculty course design.
-+ Implemented new solutions for support tickets (Zendesk) and email (G Suite)
++ Architected cloud based online course delivery solution and supported faculty course design.
++ Implemented new cloud solutions for support tickets (Zendesk) and email (G Suite)
 
 **Database Administrator** | September 2001 - July 2007  
 *Denver Seminary, Littleton, CO*  
@@ -89,8 +111,8 @@ I am a solutions architect, instructional designer, and database administrator w
 **Facilitator/Instructor** | June 2000 - August 2001  
 *Information Technology Institute, Denver, CO*  
 + Facilitated students in both classroom and small group settings in applied information technology.
-+	Delivered curriculum in the areas of programming and database design and development.
-+	Developed curriculum for Visual Basic and database design.
++ Delivered curriculum in the areas of programming and database design and development.
++ Developed curriculum for Visual Basic and database design.
 
 **Research Technician** | May 1999 - May 2000  
 *Eltron Research, Inc., Boulder, CO*  
