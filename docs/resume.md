@@ -29,10 +29,10 @@ I am a translator. I help organizations translate complex business needs into el
 
 ### Technologies  
 
-+ **Languages**: SQL, Python, XML, HTML, CSS, JavaScript  
-+ **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix  
-+ **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard  
-+ **Tools**: git, API, markdown, pandoc, Jekyll, Jupyter  
++ **Languages**: SQL, Python, XML, HTML, CSS, JavaScript
++ **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix
++ **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard
++ **Tools**: git, API, markdown, pandoc, Jekyll, Jupyter
 
 ### Consulting  
 
