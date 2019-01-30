@@ -34,7 +34,7 @@ I am a translator. I help organizations translate complex business needs into el
 + **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard  
 + **Tools**: git, API, markdown, pandoc, Jekyll, Jupyter  
 
-### Consulting Projects  
+### Consulting  
 
 **Solutions Architect and Lead Instructional Designer** | May 2012 - Present  
 *[Nida Institute](http://nidaschool.org), Philadelphia, PA*  
@@ -45,7 +45,7 @@ I am a translator. I help organizations translate complex business needs into el
 + Instruction in media theory and philosophy of technology
 
 **Design Hybrid Accreditation Visit Model** | April 2018 - Present  
-*Association of Theological Schools, Pittsburgh, PA*  
+*[Association of Theological Schools](https://ats.edu/), Pittsburgh, PA*  
 + Analyze existing visit workflows
 + Translate workflows to hybrid team environment
 + Build online team spaces for visits
@@ -53,14 +53,14 @@ I am a translator. I help organizations translate complex business needs into el
 + Train support staff
 
 **Database Redesign/Cloud Migration** | November 2018 - January 2019  
-*COR-Pro Systems, Houston, TX*  
+*[COR-Pro Systems](http://www.cor-pro.com/), Houston, TX*  
 + Discover pain points in existing ERP software solution
 + Evaluate database structure for sound efficiency, normalization, and indexing
 + Proposed changes to data model for faster queries and archivability
 + Proposed cloud translation of existing application to Sales Force platform
 
 **Design Hybrid Community Spaces** | June 2018 - Present  
-*The Episcopal Church in Colorado, Denver, CO*  
+*[The Episcopal Church in Colorado](https://episcopalcolorado.org/), Denver, CO*  
 + Analyze existing community formation processes
 + Translate existing processes into hybrid community model 
 + Build and deliver online training for community facilitators
