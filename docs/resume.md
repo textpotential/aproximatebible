@@ -12,11 +12,11 @@ custom_css: resume
 [michaelphemenway.com](http://michaelphemenway.com)  
 Denver, Colorado  
 
-### Summary  
+## Summary  
 
 I collaborate with organizations to translate complex business needs into elegant technological solutions. Nearly 20 years of experience as a solutions architect, instructional designer, and database administrator has taught me to creatively explore, design, implement, and adapt technologies that fit many different environments. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.
 
-### Skills  
+## Skills  
 
 + Architect integrated technological solutions to address complex and dynamic organizational needs.
 + Lead collaborative development teams through end to end development cycle.
@@ -27,14 +27,14 @@ I collaborate with organizations to translate complex business needs into elegan
 + Work independently and remotely while maintaining a robust institutional presence.
 + Strong grasp of the complexities of higher education administration, working with all areas of an institution's constituent lifecycle and all areas of management.
 
-### Technologies  
+## Technologies  
 
 + **Languages**: SQL, Python, XML, HTML, CSS, JavaScript.
 + **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix.
 + **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard.
 + **Tools**: git, API, markdown, pandoc, Jekyll, Jupyter.
 
-### Consulting  
+## Consulting  
 
 **Solutions Architect and Lead Instructional Designer** | May 2012 - Present  
 *[Nida Institute](http://nidaschool.org), Philadelphia, PA*  
@@ -69,7 +69,7 @@ I collaborate with organizations to translate complex business needs into elegan
 + Translate existing processes into hybrid community model.
 + Build and deliver online training for community facilitators.
 
-### Employment  
+## Employment  
 
 **Chief Information Officer** | June 2018 - Present  
 *[Iliff School of Theology](http://www.iliff.edu), Denver, CO* 
@@ -130,7 +130,7 @@ I collaborate with organizations to translate complex business needs into elegan
 + Designed, implemented and adapted experiments using oxygen conducting ceramic materials.
 + Worked with Ph.D. scientists to evaluate experimental design and develop new methodologies.
 
-### Education  
+## Education  
 
 **Doctor of Philosophy** | November 2017  
 *University of Denver/Iliff School of Theology, Denver, CO*  
