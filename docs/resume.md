@@ -38,11 +38,11 @@ I collaborate with organizations to translate complex business needs into elegan
 
 **Solutions Architect and Lead Instructional Designer** | May 2012 - Present  
 *[Nida Institute](http://nidaschool.org), Philadelphia, PA*  
-+ Architect implement, and administer learning management platform for global translator training
-+ Architect and implement online collaborative knowledge base for global bible translation community
-+ Design online learning spaces for hybrid and on-ground training events
-+ Technological support for events and event planning
-+ Instruction in media theory and philosophy of technology
++ Architect implement, and administer learning management platform for global translator training  
++ Architect and implement online collaborative knowledge base for global bible translation community  
++ Design online learning spaces for hybrid and on-ground training events  
++ Technological support for events and event planning  
++ Instruction in media theory and philosophy of technology  
 
 **Design Hybrid Accreditation Visit Model** | April 2018 - Present  
 *[Association of Theological Schools](https://ats.edu/), Pittsburgh, PA*  
