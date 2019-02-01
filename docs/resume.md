@@ -14,7 +14,7 @@ Denver, Colorado
 
 ### Summary  
 
-I am a translator. I help organizations translate complex business needs into elegant technological solutions. Nearly 20 years of experience as a solutions architect, instructional designer, and database administrator has taught me to creatively explore, design, implement, and adapt technologies that fit many different environments. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.
+I collaborate with organizations to translate complex business needs into elegant technological solutions. Nearly 20 years of experience as a solutions architect, instructional designer, and database administrator has taught me to creatively explore, design, implement, and adapt technologies that fit many different environments. A unique combination of broad experience, exceptional communication skills, and technical capacities allows me to translate complex institutional needs into fitting technological solutions and provide a bridge between organizational culture and emerging technologies.
 
 ### Skills  
 
@@ -29,16 +29,15 @@ I am a translator. I help organizations translate complex business needs into el
 
 ### Technologies  
 
-+ **Languages**: SQL, Python, XML, HTML, CSS, JavaScript
-+ **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix
-+ **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard
-+ **Tools**: git, API, markdown, pandoc, Jekyll, Jupyter
++ **Languages**: SQL, Python, XML, HTML, CSS, JavaScript.
++ **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix.
++ **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard.
++ **Tools**: git, API, markdown, pandoc, Jekyll, Jupyter.
 
 ### Consulting  
 
 **Solutions Architect and Lead Instructional Designer** | May 2012 - Present  
 *[Nida Institute](http://nidaschool.org), Philadelphia, PA*  
-
 + Architect implement, and administer learning management platform for global translator training
 + Architect and implement online collaborative knowledge base for global bible translation community
 + Design online learning spaces for hybrid and on-ground training events
