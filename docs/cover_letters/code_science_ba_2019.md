@@ -12,7 +12,7 @@ My name is Michael Hemenway and I am excited by the possibility of being a part 
 The broad range of business areas I have worked with to implement cloud based solutions include IT infrastructure, finance, fundraising, recruiting, training, enrollment, marketing, libraries, and operations. My experience as a database administrator and instructional designer give me a strong technical background in SQL and in declarative design. I have led several database migration teams, which has enhanced my communication skills across functional areas and cultivated my ability to translate between different data models. Using APIs to integrate cloud and legacy systems has also afforded me skills beyond declarative design using languages like Python and web design tools such as CSS and JavaScript.  
 
 This position interests me because I thrive in environments where translating between entities allows me to develop creative and strategically productive solutions with customers. I look forward to bringing my passion to learn, my desire to translate, and my broad experience into the Code Science family.
-
-
+<br \>
+<br \>
 Sincerely,  
 Michael
