@@ -39,74 +39,74 @@ I collaborate with organizations to translate complex business needs into elegan
 **Solutions Architect and Lead Instructional Designer** | May 2012 - Present  
 *[Nida Institute](http://nidaschool.org), Philadelphia, PA*  
 
-+ Architect implement, and administer learning management platform for global translator training  
-+ Architect and implement online collaborative knowledge base for global bible translation community  
-+ Design online learning spaces for hybrid and on-ground training events  
-+ Technological support for events and event planning  
-+ Instruction in media theory and philosophy of technology  
++ Architect implement, and administer learning management platform for global translator training.
++ Architect and implement online collaborative knowledge base for global bible translation community.
++ Design online learning spaces for hybrid and on-ground training events.
++ Technological support for events and event planning.
++ Instruction in media theory and philosophy of technology.
 
 **Design Hybrid Accreditation Visit Model** | April 2018 - Present  
 *[Association of Theological Schools](https://ats.edu/), Pittsburgh, PA*  
 
-+ Analyze existing visit workflows  
-+ Translate workflows to hybrid team environment  
-+ Build online team spaces for visits  
-+ Communicate organizational and technical changes to stakeholders  
-+ Train support staff  
++ Analyze existing visit workflows.
++ Translate workflows to hybrid team environment.
++ Build online team spaces for visits.
++ Communicate organizational and technical changes to stakeholders.
++ Train support staff.
 
 **Database Redesign/Cloud Migration** | November 2018 - January 2019  
 *[COR-Pro Systems](http://www.cor-pro.com/), Houston, TX*  
 
-+ Discover pain points in existing ERP software solution  
-+ Evaluate database structure for sound efficiency, normalization, and indexing  
-+ Proposed changes to data model for faster queries and archivability  
-+ Proposed cloud translation of existing application to Sales Force platform  
++ Discover pain points in existing ERP software solution.
++ Evaluate database structure for sound efficiency, normalization, and indexing.
++ Proposed changes to data model for faster queries and archivability.
++ Proposed cloud translation of existing application to Sales Force platform.
 
 **Design Hybrid Community Spaces** | June 2018 - Present  
 *[The Episcopal Church in Colorado](https://episcopalcolorado.org/), Denver, CO*  
 
-+ Analyze existing community formation processes  
-+ Translate existing processes into hybrid community model  
-+ Build and deliver online training for community facilitators  
++ Analyze existing community formation processes.
++ Translate existing processes into hybrid community model.
++ Build and deliver online training for community facilitators.
 
 ### Employment  
 
 **Chief Information Officer** | June 2018 - Present  
 *[Iliff School of Theology](http://www.iliff.edu), Denver, CO* 
  
-+ Represent technologies and library on the senior leadership team.  
-+ Oversee technology and library budgets and personnel.  
-+ Found and Direct Artificial Intelligence Institute, developing curriculum and code with industry partners.  
-+ Found and Direct Experimental Humanities Lab.  
-+ Architect Institutional Data Repository for ongoing assessment and institution wide analytics and data visualization.  
-+ Develop and lead a laboratory model to bring together staff, faculty, and board members in experimental strategic initiatives.  
++ Represent technologies and library on the senior leadership team.
++ Oversee technology and library budgets and personnel.
++ Found and Direct Artificial Intelligence Institute, developing curriculum and code with industry partners.
++ Found and Direct Experimental Humanities Lab.
++ Architect Institutional Data Repository for ongoing assessment and institution wide analytics and data visualization.
++ Develop and lead a laboratory model to bring together staff, faculty, and board members in experimental strategic initiatives.
 
 **Director of Academic and Information Technologies** | June 2012 - June 2018  
 *[Iliff School of Theology](http://www.iliff.edu), Denver, CO*  
 
-+ Architect and support the development of integrated data solutions across the institution.  
-+ As part of senior leadership team, articulate and implement strategic institutional vision for technologies in concert with strategic plan.  
-+ Architect online learning platform and develop hybrid pedagogies for new hybrid curriculum.  
-+ Migrated online learning management system (Moodle --> Canvas) and translated course design into new platform.  
-+ Implemented community knowledge base.  
-+ Manage IT team staff, administer the IT budget, and manage the ongoing development and adaptation of technological policies.  
++ Architect and support the development of integrated data solutions across the institution.
++ As part of senior leadership team, articulate and implement strategic institutional vision for technologies in concert with strategic plan.
++ Architect online learning platform and develop hybrid pedagogies for new hybrid curriculum.
++ Migrated online learning management system (Moodle --> Canvas) and translated course design into new platform.
++ Implemented community knowledge base.
++ Manage IT team staff, administer the IT budget, and manage the ongoing development and adaptation of technological policies.
 
 **Library Director** | June 2014 - May 2018  
 *[Iliff School of Theology](http://www.iliff.edu/library), Denver, CO*  
 
-+ Architect and implement a new institutional department, combining IT and Library.  
-+ Reimagine the physical space of the library to provide more collaborative and hybrid opportunities.  
-+ Support and manage library staff, oversee library budget, and provide institutional reporting for library.  
-+ Consolidate strategic partner relationship with the University of Denver to increase access to electronic resources.  
-+ Migrate library database and discovery software solutions and integrate with existing institutional technologies.  
++ Architect and implement a new institutional department, combining IT and Library.
++ Reimagine the physical space of the library to provide more collaborative and hybrid opportunities.
++ Support and manage library staff, oversee library budget, and provide institutional reporting for library.
++ Consolidate strategic partner relationship with the University of Denver to increase access to electronic resources.
++ Migrate library database and discovery software solutions and integrate with existing institutional technologies.
 
 **Academic Technologist, Database Administrator, and IT Team Lead** | January 2008 - May 2012  
 *[Iliff School of Theology](http://www.iliff.edu), Denver, CO*  
 
-+ Built and led an IT team for the institution and stabilized technological infrastructure.  
-+ Administered centralized institutional database solution, including upgrades, backup and recovery, normalization, and reporting.  
-+ Architected cloud based online course delivery solution and supported faculty course design.  
-+ Implemented new cloud solutions for support tickets (Zendesk) and email (G Suite).  
++ Built and led an IT team for the institution and stabilized technological infrastructure.
++ Administered centralized institutional database solution, including upgrades, backup and recovery, normalization, and reporting.
++ Architected cloud based online course delivery solution and supported faculty course design.
++ Implemented new cloud solutions for support tickets (Zendesk) and email (G Suite).
 
 **Database Administrator** | September 2001 - July 2007  
 *Denver Seminary, Littleton, CO*  
@@ -119,12 +119,14 @@ I collaborate with organizations to translate complex business needs into elegan
 
 **Facilitator/Instructor** | June 2000 - August 2001  
 *Information Technology Institute, Denver, CO*  
+
 + Facilitated students in both classroom and small group settings in applied information technology.
 + Delivered curriculum in the areas of programming and database design and development.
 + Developed curriculum for Visual Basic and database design.
 
 **Research Technician** | May 1999 - May 2000  
 *Eltron Research, Inc., Boulder, CO*  
+
 + Designed, implemented and adapted experiments using oxygen conducting ceramic materials.
 + Worked with Ph.D. scientists to evaluate experimental design and develop new methodologies.
 
@@ -132,15 +134,18 @@ I collaborate with organizations to translate complex business needs into elegan
 
 **Doctor of Philosophy** | November 2017  
 *University of Denver/Iliff School of Theology, Denver, CO*  
+
 + Joint Doctoral Program in Religious Studies, Biblical Interpretation Concentration  
 + Dissertation: *Bible as Interface* - Considering the relationship of users and bible as a technological interface from antiquity into our emerging technological landscape.
 
 **Master of Arts** | May 2006  
 *Denver Seminary, Littleton, CO*  
-+ Major: Biblical Studies, New Testament Concentration  
-+ Thesis: *Paul's Theological Hermeneutic in 2 Corinthians 3*  
+
++ Major: Biblical Studies, New Testament Concentration
++ Thesis: *Paul's Theological Hermeneutic in 2 Corinthians 3*
 
 **Bachelor of Science** | May 1997  
 *University of Puget Sound, Tacoma, WA*  
-+ Major: Chemistry, Math Minor  
-+ Senior Research: *Nuclear Magnetic Resonance Spectroscopy on Inorganic Compounds*  
+
++ Major: Chemistry, Math Minor
++ Senior Research: *Nuclear Magnetic Resonance Spectroscopy on Inorganic Compounds*
