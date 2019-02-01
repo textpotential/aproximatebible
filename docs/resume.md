@@ -135,8 +135,8 @@ I collaborate with organizations to translate complex business needs into elegan
 **Doctor of Philosophy** | November 2017  
 *University of Denver/Iliff School of Theology, Denver, CO*  
 
-+ Joint Doctoral Program in Religious Studies, Biblical Interpretation Concentration  
-+ Dissertation: *Bible as Interface* - Considering the relationship of users and bible as a technological interface from antiquity into our emerging technological landscape.
++ Joint Doctoral Program in Religious Studies, Biblical Interpretation Concentration
++ Dissertation: *Bible as Interface* - Considering the relationship of users and bible as a technological interface from antiquity into our emerging technological landscape
 
 **Master of Arts** | May 2006  
 *Denver Seminary, Littleton, CO*  
