@@ -3,8 +3,8 @@ Dr. Michael P. Hemenway
 Denver, CO 80210  
 303-818-1433  
 <mphemenway@gmail.com>  
-  
-  
+<br \>  
+<br \>  
 Dear Code Science Hiring Team,  
 
 My name is Michael Hemenway and I am excited by the possibility of being a part of the creative family at Code Science as a Business Analyst. For the last 18 years, I have been working with organizations to translate business needs into elegant technological solutions. Using tools like Zoom and Slack, I have enjoyed the opportunities to build dispersed, cross-functional teams to solve complex business problems with right-fit technologies through a highly interactive design process. Often speaking before boards of directors as a consultant or as part of my institution’s executive team, I have proven to be an excellent communicator across a wide variety of constituencies. My unique combination of curiosity, communication skills, and capacity to learn technologies have made me an effective translator between the various stakeholders in a project. This translation work must negotiate interpersonal, workflow, and technical challenges that emerge at each stage of the product life cycle in order to provide suitable and sustainable solutions.  
