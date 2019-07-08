@@ -3,13 +3,13 @@ collection of code used as part of my dissertation
 
 This repository has marks of several iterations of the dissertation and now also hosts my personal/professional website. 
 
-**Version 1** I initially built the dissertation with Evernote connected to pistachio as the web front end, using a disqus engine for community commenting. 
+**Version 1** I initially built the dissertation with Evernote connected to pistachio as the web front end, using a disqus engine for community commenting. See [Version 1](https://aproximatebible.postach.io/)
 
-**Version 2** I translated the evernote/pistachio writing i did (without the community comments) into quip so my committee could engage in private
+**Version 2** I translated the evernote/pistachio writing i did (without the community comments) into quip so my committee could engage in private. I don't have this interface active anymore. 
 
-**Version 3** I started over, basically, writing in markdown using Sublime as my text editing environment and then using pandoc to convert drafts of chapters to Word to share with the committee. 
+**Version 3** I started over, basically, writing in markdown using Sublime as my text editing environment and then using pandoc to convert drafts of chapters to Word to share with the committee. These are in the bai_markdown directory of this repo.
 
-**Version 3a** Once I needed to begin stitching the chapters together, I did a final pandoc translation to Word and then combined the chapters into one large doc to deal with pagination, margins, TOC, etc. 
+**Version 3a** Once I needed to begin stitching the chapters together, I did a final pandoc translation to Word and then combined the chapters into one large doc to deal with pagination, margins, TOC, etc. These are in the bai_print directory.
 
 **Version 3b** The combined Word doc was saved as a PDF to be submitted as a print artifact for defense and publishing
 
