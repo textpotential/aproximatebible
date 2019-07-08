@@ -1,0 +1,124 @@
+My goal here is to connect the notions of proximity and anarchy in Levinas to interface design that affords reading which is not primarily governed by consuming the content of a container, but encourages a space of interaction that supports difference. Just as Drucker offers probabilistic production as an alternative to mechanical determinism, so here, I will offer the anarchy of proximity as an alternative to consumptive mastery in the practice of reading. Not only does bible offer a zone of encounter for provoking probabilistic production in the practice of reading, but, I argue, bible can be an *anarchic interface*, an interface not governed by a singular original, theme, or principle. Extending Levinas's description of the pre-conscious ethical encounter in the face to face as proximity, I will operationalize this proximity in interface design as a space with depth that opens up possibility for contact without grasp, thus reading not governed by an original (an-arche).
+
+As I mentioned in the beginning of my chapter on interface, it was in part the simple semantic correlation between inter-face and the face to face in Levinas that raised my curiosity about the possible relationship between the proximity at work in the face to face and bible as interface. One way to parse this process in Levinas's writings is that the face initiates a proximity, a zone of encounter (recall Drucker's discussion of interface) that is both near and distant, which in turn affords anarchic relations, relations not governed by one subject's ability to comprehend, understand, or categorize another subject. So, in the ethical relation, the proximity of the face creates an interface, a particular kind of zone of encounter that demands contact without grasp. Here, I am suggesting a close relationship between the provocation of probabilistic production characteristic of interface and the proximity of the face in the ethical encounter.
+
+At this point, I need to make a few comments about the tenuous connections between proximity and the kind of space we discussed in relationship to interface in chapter 1. Cite the explicit place Levinas says that proximity can not be reduced to geographic nearness or distance and point out that this suggestion does NOT mean that proximity is not spatial, simply that proximity as a relationship of responsibility can not be reduced to typical notions of physical coincidence or contiguity. In his reflections on Celan, Levinas calls the language of his poetry a non-place...can the common distinction between space and place be helpful here, even if we do need to stay mindful of the work that proximity does to precede or ground the cultural practices that make up space. Space as a process can allow for encounter without an already established meaning....
+
+I am not sure what to do with this yet, but here is a connection between sensibility, materiality and proximity - 
+
+> The immediacy of the sensibility is the for-the-other of one's own materiality; it is the immediacy or the proximity of the other. The proximity of the other is the immediate opening up for the other of the immediacy of enjoyment, the immediacy of taste, materialization of matter, altered by the immediacy of contact (Levinas 1971, 75).
+
+And another very juicy one on materiality and proximity
+
+Might just want to put this in a note as to the analogy I sometimes use for proximity, which is asymptote - 
+
+> But it is also distinguishable from the Soilen, for proximity is not a simply asymptotic approach of its "term." Its term is not an end. The more I answer the more I am responsible; the more I approach the neighbor with which I am encharged the further away I am. This debit which increases is infinity as an infinition of the infinite, as glory.34
+
+I wonder if we could offer a modified asymptote visualization that might depict this approach that moves me further away?
+
+If Levinas describes the encounter of the face to face using proximity, and if proximity is contact without grasp, then we can see the analogy between proximity and the probabilistic production involved in interface. Further, Drucker helpfully reminds us that interfaces "provoke" this other kind of encounter that resists mechanistic (i.e. determinative) consumption of content in a container and opens to a making that involves the possibility of surprise. Though the language is stronger in Levinas, the face too "provokes" a kind of encounter that is other than deterministic consumption, this material encounter, Levinas describes as proximity. Proximity, then, is another way of describing the probabilistic production at work in a reading event in the space that is interface.
+
+Saying offers a more accessible (pun intended) way to get at the operation of proximity in both Levinas and in my theory of interface. Hand quotes Levinas saying - "Saying is 'the commitment of an approach, the one for the other, the very signifyingness of signication, prior to being a communication in which a truth is manifested" (Hand Reader, 6). Already, we can see the entanglement of proximity and language in this connection with the saying...
+
+Once this notion of technology as revealing, one mode of revealing that is being, is established, Heidegger moves toward a discussion of the nature of this kind of revealing as Gestell, which is where he returns to the concern about the collapse of distance without the encouragement of nearnesss that he began the lecture series with.  
+
+MORE ON DISTANCE IN Bremen LECTURES...
+
+** Need to at least mention the more recent work by Silverstone on Proper Distance
+-- need to reflect on the use of proper here as dangerous similarity to the notion of proper De Certeau reflects on in his notions of reading as anarchy. 
+-- Silverstone is very clear about his choice of proper as a term, so I can work from there. 
+-- Mostly, though it is useful to point out that the concerns about nearness and distance are still occupying our discourse on human-computer interface. 
+-- Though I appreciate the difficult task Silverstone undertakes, I have several concerns about the use of proper, his reading of proximity in Levinas, and the absence of Heidegger in the discussion.
+
+In my first course on Levinas, I ran across an article by Richard A. Cohen dealing explicitly with the relationship between Levinasian ideas and the emerging technological landscape of the internet and virtual reality (Cohen 2000). My discomfort with the approach taken by all three theorists in the article, Cohen, Introna, and Turkle, pushed me to consider carefully my own perspectives on the potential for meaningful human relationship in our emerging media ecosystems. MORE HERE...
+
+Yet, the word 'face' has come to signify human interaction unmediated by digital technologies in the common phrase 'face to face.' There is a great deal of discussion these days about the different values of online/virtual/digital interaction and the so-called 'face to face.' For example, Sherry Turkle has become a prominent public voice in discussions of technology and its social effect, as evidenced in the impressive attention[^16] captured by her new book, *Reclaiming Conversation: The Power of Talk in a Digital Age*.[^17] I first encountered Turkle's work while engaging a Richard Cohen article, 'Ethics and Cybernetics: Levinasian Reflections,'[^18] in my struggle with the face to face language in online education. Using her work from 1995, *Life on the Screen*,[^19] Cohen offers Turkle as an example of media scholars who champion the advantages of cybernetics and internet communication technologies for redefining subjectivities in the direction of post-modern notions of multiplicity and instability.[^20]
+
+Turkle's more recent work has shifted focus from this earlier celebration of the fragmented self to a serious anxiety about the effects of robotics and mobile devices on our social capacities as humans.[^21] Two minutes into a 2015 NPR interview titled 'Making the Case For Face to Face in an Era of Digital Conversation,'[^22] Turkle suggests that 'face to face conversation is the most human and humanizing thing that we do, it's where we learn to put ourselves in the place of the other.' For many, this phrase, 'face to face,' as Turkle uses it has come to represent 'real' human interaction as opposed to a weak simulation or even cheap imitation that happens through internet media.
+
+Part of why the language of inter*face* compels me is because it can unsettle this binary between digital interfaces and this 'face to face' advocated by Turkle. Conversation over the coffee table and exchanges on Twitter can both be understood as interface and both are mediated by technologies if we understand language as a technology. So, this term, 'interface,' pushes beyond any digital/analog or virtual/real dichotomies and demands that we think about interface design in whatever media we find ourselves using. In a way, we could imagine 'interface,'the intersection of faces, as a useful translation of the phrase 'face to face.'
+
+[^16]: https://storify.com/textpotential/turkle-face-to-face
+
+[^17]: 
+    and Sherry Turkle, *Reclaiming Conversation: The Power of Talk in a
+    Digital Age* (New York: Penguin Press, 2015).
+
+[^22]: http://www.npr.org/2015/09/26/443480452/making-the-case-for-face-to-face-in-an-era-of-digital-conversation
+
+In his essay titled "Substitution," Levinas takes up the relationship between proximity and the αρχη. At many points in this project, we will struggle with the potential of proximity, from spatial nearness and distance to ap-proximat-ion to a notion of contact without grasp. But for now, we will focus on the anarchic.
+
+I wonder if a note here or a paragraph on the difference between face and facade in Levinas (Reality and it's Shadow) as it relates to interface. It is my experience that many address new media interfaces as a facade, partly indebted to the Frankfurt school's devaluation of mass media. I am arguing that interface as articulated with Drucker as a 'zone of encounter provoking probabilistic production' resembled more the face to face than it does the facade of art/media. Now that I think of it, thanks to Rothko, maybe the difference between face and facade is indeed proximity? Not simply a nearness such as Rothko's urging to stand close to his works to be enveloped in a way such that the viewer does not command the piece, but a spatiality that allows for contact without grasp. A facade invites consumption and tourism, while the face demands an encounter that can not be reduced to observation. The face as encounter has depth, which creates a space that allows for both distance and nearness, where the distance consistently interrupts the impulse to draw near (appear). Perhaps we could call this the space of the asymptotic relation? 
+
+A facade as flat reminds me of the distinction N Katherine Hayles makes in her essay "Print is Flat, Code is Deep: The Importance of Media Specific Analysis" (Hayles 2004). 
+
+this of proximity, "Here what is essential is a refusal to allow oneself^[This seems like a slippage of language. At the level of the ethical relation as proximity in Levinas, there is no allowing oneself] to be tamed or domesticated by a theme...
+
+Here we find a restatement of the earlier resistance to the kerygmatic logos as the ground of subjectivity and human sociality. The connection between kerygmatic logos and arxh is all too familiar to me given my own history of conservative evangelical biblical training. 
+
+When I speak of anarchy, I mean something other than a generic absence of order or a simple negation of rule, origin, or principle. Insofar as chaos is connected to the emergent properties of complex dynamic systems, I have no problem with chaos as a fecund space, loaded with potential for meaning. Yet, shaped by my encounters with the writings of Emmanuel Levinas, something deeper and more subtle is at work in my sense of the gravity of anarchy. 
+
+>that I am also struck by the potential poetic movement of *délire de lire* in our exploration of the cultural production of bible.
+
+Simon Critchley, in his work on the relationship between ethics and politics, "Infinitely Demanding," argues for a similar kind of spatiality in political anarchism. Tracing Levinas's use of anarchy in the "Substitution" section of OTB, Critchley moves from anarchy through obsession and persecution to "interstitial distance" (Critchley 2007, 121-23). For Critchley, this is already a move from the ethical to the political, with interstitial distance being a distance from AND within the state that consistently resists the tendency of the State^[I capitalize State here both to follow the convention used by Critchley and to signal the tendency of State to operate as an arche or governing principle.] to order all areas of life by collapsing the distance of multiplicity into the facade of unity (Critchley 2007, 112-13). 
+
+### Michel De Certeau - Never a Blank Page ###
+
+If we look at the basic uses of 'interface' in the English language, we can see the strong indication of interaction and connection as well as the prevalent use in the computing arena. Here in these definitions,[^23]
+
+HAND on Proximity - So the term proximity indicates something excessive for Levinas. It signi fi es a community that exists before any established fact, where the other ’ s singularity is experienced by me as unparalleled, overwhelming, extreme, exclusive and pre-assigned. There is simply no choice in the matter.
+Hand, Seán. Emmanuel Levinas, edited by Seán Hand, Taylor and Francis, 2008. ProQuest Ebook Central, .
+Created from du on 2017-01-01 08:41:43.
+-- This excessiveness is highlighted nicely in Ethics as First Philosophy from Hand reader 82-83 - "The proximity of the other is the face's meaning, and it means from the very start in a way that goes beyond those plastic forms which forever try to cover the face like a mask of their presence to perception. But always the face shows through these forms."
+-- This is a direct reflection on Introna's discussion of community and proximity in the SEP article. Here, Hand suggests that proximity does indicate a kind of community for Levinas, but not a community dependent upon any pre-existing horizon. I wonder if community here is a helpful term? Here, I think the phrase contact without grasp fits proximity well. Before even our perceptual faculties are constructed in the relational act, there is an encounter that precedes and exceeds my ability to grasp or make sense of or choose it and demands a response, a responsibility, that then provides the conditions of possibility for a relationality. Introna helps greatly in seeing where the notion of proximity may come from Heidegger's notion of disclosure and close at hand. Yet, and critically yet, for Levinas, proximity is not reducible to disclosure or shared horizon. It is contact without grasp or even contact that is being grasped? As Hand suggests, proximity exceeds horizon and disclosure. 
+
+I could explain affordances as the entangled materialities that construct the space of interface and then walk through the interface history of the bible as book looking for a few specific affordances, such as non-linear access, atomization, and aggregation/collection. Or I could simply describe each interface in terms of its affordances. Roll affords continuous access to text with reinforced sense of relationships of part to whole. Unlike our contemporary romance novels, it would be an onerous task to peek at the end of a story with this roll interface. Roll offers protection of writings and a kind of focus on a particular portion of text by only exposing bits of the text at a time to the user. In the end, I am deciding to stick to one notion of interface, user with platform, rather than push toward the multilayered interface of user-platform-user. 
+
+Introna's reflections on ethics in internet communication technologies demonstrated the ongoing conversation about our human response to the changes in space and time enacted by the emergence of the internet. It was a similar anxiety about the impact of technologies on our experience of nearness and distance and the potential changes for human relationships that gave rise to Heidegger's Bremen lectures, from which came QCT. 
+
+ These historical philosophical discussions in Heidegger and Levinas still speak loudly to the concerns about intimacy and the digital in Sherry Turkle's work, the questions of community and the internet pursued by Introna, and the role of subject in interface explored by Drucker.^[One of the most explicit expressions of this focus on distance and the human in emerging technologies, particularly related to Levinasian proximity, is Roger Silverstone's suggestion of a "proper distance" as the possibility for ethical/moral human relationships in cyberspace (2003).] As we will see below, proximity in Levinas can be read, in part, as a response to Heidegger's reflections on nearness, distance, and human encounter.
+
+ Though we have seen the use of terms shift from nearness to distancelessness in this tracing of the persistent anxiety about emerging technologies throughout history, there is a consistent worry about the change in scale of nearness and distance with the emergence of new technologies.
+
+ Interfaces that afford the nearness of proximity will demand a response from users. This response of proximity does not necessitate spatial or even relational contiguity, but it does demand high surface area and collaboration. High surface area allows for more points of contact in interface, which in turn, can increase the likelihood of interaction. I have often used the process of making coffee as an example for the benefits of surface area in interface. 
+
+Interfaces that afford the distance of proximity will resist mastery of the participants in the interface. Two ways which an interface can resist mastery are through anarchy and excess. The first of these, anarchy, is a loaded and technical term that I have borrowed from Levinas to use in a very particular manner. Certainly, chaos in interface could offer one mechanism to resist a kind of mastery. Yet, this chaos can easily become a mastery of its own, allowing nothing other than the absence of order. 
+
+d. A Proximate Nearness - Responses to Nearness and Distance
+    i. Introna describes 3 main approaches to human relationship with technology, functional, co-constructed, and phenomenological - role of nearness/distance in ethics of ICTs (SEP entry)
+    -- NOTE SURE I WANT TO INTRODUCE THE WHOLE DISCIPLINE OF ETHICS HERE, I WONDER IF I CAN MOVE TO SILVERSTONE AS AN INTRODUCTION TO LEVINAS TO SIMPLIFY?
+    i. Drucker interface theory is an example of the co-constructive approach
+    i. Silverstone and Proper Distance provides an excellent starting place 
+    i. Levinasian Proximity
+        * not about tech per se, but useful nonetheless
+        * falls loosely into the phenomenological approach advocated by Introna
+        * proximity as increase in both nearness and distance
+        * nearness as approach and responsibility
+        * distance as resistance to mastery
+        * a proximate relationship: two resonances of the term - contact (proximate) without grasp (approximate)
+e. Affording Proximity: contact without grasp
+    i. proximity beyond human-human interface? 
+        * bible as face in Levinas
+        * poetry as proximate
+    ii. characteristics of proximate interface
+        * nearness - other terms - participation, collaboration (facilitates dialog ala Plato), communal (even when reading alone), connection, annotation (glossa ordinare - leaving gaps for engagement), surface area 
+        * distance - other terms - interruption, anarchy, excess
+        * Use small and simple examples when 
+    GONE - iii. Examples of Proximate Interfaces
+        * Walter Benjamin - Arcades Project and literary montage
+        * Gospel manuscripts (David Parker)
+
+Drucker asks humanists to do more theorizing of interface to push design toward principles that take into account the values and practices of the humanities. In this chapter, I take up this call by bringing the  to bear on a theory of interface and the affordances possible in interface. Drucker's primary concern is to bring the ambiguity of the constructivist subject to bear on the conceptions of reading interfaces in our emerging media landscapes. For her, the concept of subject interrupts the static and over determined operations of user and interface in the software industry. I have already argued for a focus on reader as user, to interrupt our embedded assumptions about the relationship between reader and bible. Even if I do not take up the explicit subject language advocated by Drucker, I follow her lead in exploring how a different paradigm of subjectivity might shape our theorizing about interface and even our practices of interface design.
+
+
+c. Closer and Closer - Problem of Nearness and Distance
+    i. what do we mean by nearness and distance here?
+    i. Anxieties about emerging technologies (Carr, Turkle, etc.)
+    ii. Plato - writing and memory - Plato is nervous that the nearness offered by writing will atrophy the operations of memory. A certain distance
+    ii. Heidegger - distancelessness without nearness
+
+After a long analysis instrumental definitions of technology in relation to the Aristotelean causes, Heidegger writes, "Technology is therefore no mere means. Technology is a way of revealing. If we give heed to this, then another whole realm for the essence of technology will open itself up to us. It is the realm of revealing, i.e., of truth" (Heidegger 1977, 12).^[The translators note to the last word of this quote gives an explanation of the relationship between *Wahrheit* and the *bergen* stem words Heidegger uses to talk about revealing and its related terms (Heidegger 1977, 12, n. 12.). After a short discussion of the etymology of *techne*, Heidegger restates this claim emphatically, saying, "Technology is a mode of revealing. Technology comes to presence [West] in the realm where revealing and unconcealment take place, where *aletheia*, truth, happens."] This particular revealing that is the essence of technology presents a danger, the tendency to turn all things, humans and nature included, into interchangeable units of resources (standing-reserve). This revealing that homogenizes, Heidegger calls *Gestell*. Before he introduces the term, he describes this process that produces the world as interchangable units as 
+
+> The revealing that rules throughout modern technology has the character of a setting-upon, in the sense of a challenging­ forth. That challenging happens in that the energy concealed in nature is unlocked, what is unlocked is transformed, what is transformed is stored up, what is stored up is, in turn, distributed, and what is distributed is switched about ever anew (Heidegger 1977, 16).^[It is not lost on me that this description of the enframing and standing reserve at work in Heidegger's notion of the essence of technology has some incredible similarities with Lev Manovich's articulation of new media objects, particularly in their property of transcoding (Manovich 2002).]
+
+Through this *Gestell*, enframing or positionality,^[See Blitz 2014 for an extended discussion of the role of QCT in the Bremen lectures and for the difference in translation choice here between enframing and positionality to render Gestell. Blitz suggests that both are unable to contain all of the nuances of Gestell in QCT and seems to elect for a focus on the idea of "challenging."], a technological kind of revealing, all things, including humans, are reduced to interchangeable resources that can be leveraged as needed for efficiency and production. Even in the realm of science, according to Heidegger, technology has made nature into "standing reserve," simply a set of resources ready for use. In his own questioning of Heidegger's questions about technology, Don Ihde suggests that this idea of Technology as Gestell (Ihde capitalizes Technology here to signal that we are not talking about technologies) marks the signature of Heidegger's unique approach to these questions (Ihde 2010, 18-19). The danger, which happens to be the title of the third lecture in the Bremen series, of technology as enframing, lies in the transformation of all things into standing-reserve, distanceless without nearness (Heidegger 2012, 44). In standing-reserve, everything is so close at hand that difference is erased in the name of efficiency and consumption. For Heidegger, this lack of distance afforded by the rise of machines without facilitating a nearness of authentic relationship threatens the very being of humans.
