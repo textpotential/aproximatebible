@@ -18,6 +18,7 @@ I collaborate with organizations to translate complex business needs into elegan
 
 ## Skills  
 
++ Lead digital transformation process across organizations.  
 + Architect integrated technological solutions to address complex and dynamic organizational needs.
 + Lead collaborative development teams through end to end development cycle.
 + Communicate with stakeholders and developers to facilitate shared vision, common understanding, and appropriate outcomes.
@@ -36,6 +37,24 @@ I collaborate with organizations to translate complex business needs into elegan
 
 ## Consulting  
 
+**Digital Transformation and ERP Implementation** | June 2019 - December 2019  
+*[Straight Hemp](https://straighthemp.com), Arvada, CO*  
+
++ Design Hybrid ERP solution for warehouse management and customer support.
++ Build API bridge between inventory and shipping software.
++ Manage implementation. 
++ Streamline workflows and cross functional communication.
++ Train staff.
+
+**Digital Transformation and Instructional Design** | April 2018 - Present  
+*[Association of Theological Schools](https://ats.edu/), Pittsburgh, PA*  
+
++ Analyze existing visit workflows.
++ Translate workflows to hybrid team environment.
++ Build online team spaces for visits.
++ Communicate organizational and technical changes to stakeholders.
++ Train support staff.
+
 **Solutions Architect and Lead Instructional Designer** | May 2012 - Present  
 *[Nida Institute](http://nidaschool.org), Philadelphia, PA*  
 
@@ -45,15 +64,6 @@ I collaborate with organizations to translate complex business needs into elegan
 + Technological support for events and event planning.
 + Instruction in media theory and philosophy of technology.
 
-**Design Hybrid Accreditation Visit Model** | April 2018 - Present  
-*[Association of Theological Schools](https://ats.edu/), Pittsburgh, PA*  
-
-+ Analyze existing visit workflows.
-+ Translate workflows to hybrid team environment.
-+ Build online team spaces for visits.
-+ Communicate organizational and technical changes to stakeholders.
-+ Train support staff.
-
 **Database Redesign/Cloud Migration** | November 2018 - January 2019  
 *[COR-Pro Systems](http://www.cor-pro.com/), Houston, TX*  
 
@@ -62,7 +72,7 @@ I collaborate with organizations to translate complex business needs into elegan
 + Proposed changes to data model for faster queries and archivability.
 + Proposed cloud translation of existing application to Sales Force platform.
 
-**Design Hybrid Community Spaces** | June 2018 - Present  
+**Design Hybrid Community Spaces** | June 2018 - June 2019  
 *[The Episcopal Church in Colorado](https://episcopalcolorado.org/), Denver, CO*  
 
 + Analyze existing community formation processes.
@@ -70,6 +80,14 @@ I collaborate with organizations to translate complex business needs into elegan
 + Build and deliver online training for community facilitators.
 
 ## Employment  
+
+**Director and Machine Advocate** | January 2019 - Present  
+*[ai.iliff](http://ai.iliff.edu), Denver, CO* 
+ 
++ Direct the overall strategy of the insitute to build a trust based AI ecosystem through conversation, curriculum, and code.
++ Build strategic partnerships inside and outside the academy.
++ Recruit talent and build cross functional teams to support trust based AI design. 
++ Design AI products for online learning.
 
 **Chief Information Officer** | June 2018 - Present  
 *[Iliff School of Theology](http://www.iliff.edu), Denver, CO* 
@@ -149,3 +167,10 @@ I collaborate with organizations to translate complex business needs into elegan
 
 + Major: Chemistry, Math Minor
 + Senior Research: *Nuclear Magnetic Resonance Spectroscopy on Inorganic Compounds*
+
+## Publications  
+
++ Experimental Humanities Lab @ Iliff, “Library as Interface for Digital Humanities Work,” in Digital Humanities and Libraries and Archives in Religious Studies, ed. Clifford B. Anderson, De Gruyter, Forthcoming. 
++ Michael P. Hemenway, “Bible as Interface,” PhD diss., the Joint Doctoral Program in Religion at the University of Denver and Iliff School of Theology, 2017, ProQuest Dissertations and Theses. 
++ Michael P. Hemenway, “Codex to Kindle,” in Media, Religion and Culture: An Introduction, by Jeffrey H. Mahan. Routledge, 2014.
++ Michael P. Hemenway, “Indie Music,” in The Oxford Encyclopedia of the Bible in the Arts, ed. Timothy Beal. New York: Oxford University Press, 2014.
