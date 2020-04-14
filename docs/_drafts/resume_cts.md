@@ -1,10 +1,3 @@
----
-layout: page
-title: Resume
-permalink: /resume/
-custom_css: resume
----
-
 # Michael P. Hemenway, Ph.D.
 *connecting organizational needs with technological solutions*  
 
@@ -27,57 +20,6 @@ I collaborate with organizations to translate complex business needs into elegan
 + Assess problematic assumptions in existing workflows and implement alternatives.
 + Work independently and remotely while maintaining a robust institutional presence.
 + Strong grasp of the complexities of higher education administration, working with all areas of an institution's constituent lifecycle and all areas of management.
-
-## Technologies  
-
-+ **Languages**: SQL, Python, XML, HTML, CSS, JavaScript.
-+ **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix.
-+ **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard.
-+ **Tools**: git, API, markdown, pandoc, Jekyll, Jupyter.
-
-## Consulting  
-
-**Digital Transformation and ERP Implementation** | June 2019 - December 2019  
-*[Straight Hemp](https://straighthemp.com), Arvada, CO*  
-
-+ Design Hybrid ERP solution for warehouse management and customer support.
-+ Build API bridge between inventory and shipping software.
-+ Manage implementation. 
-+ Streamline workflows and cross functional communication.
-+ Train staff.
-
-**Digital Transformation and Instructional Design** | April 2018 - Present  
-*[Association of Theological Schools](https://ats.edu/), Pittsburgh, PA*  
-
-+ Analyze existing visit workflows.
-+ Translate workflows to hybrid team environment.
-+ Build online team spaces for visits.
-+ Communicate organizational and technical changes to stakeholders.
-+ Train support staff.
-
-**Solutions Architect and Lead Instructional Designer** | May 2012 - Present  
-*[Nida Institute](http://nidaschool.org), Philadelphia, PA*  
-
-+ Architect implement, and administer learning management platform for global translator training.
-+ Architect and implement online collaborative knowledge base for global bible translation community.
-+ Design online learning spaces for hybrid and on-ground training events.
-+ Technological support for events and event planning.
-+ Instruction in media theory and philosophy of technology.
-
-**Database Redesign/Cloud Migration** | November 2018 - January 2019  
-*[COR-Pro Systems](http://www.cor-pro.com/), Houston, TX*  
-
-+ Discover pain points in existing ERP software solution.
-+ Evaluate database structure for sound efficiency, normalization, and indexing.
-+ Proposed changes to data model for faster queries and archivability.
-+ Proposed cloud translation of existing application to Sales Force platform.
-
-**Design Hybrid Community Spaces** | June 2018 - June 2019  
-*[The Episcopal Church in Colorado](https://episcopalcolorado.org/), Denver, CO*  
-
-+ Analyze existing community formation processes.
-+ Translate existing processes into hybrid community model.
-+ Build and deliver online training for community facilitators.
 
 ## Employment  
 
@@ -167,6 +109,41 @@ I collaborate with organizations to translate complex business needs into elegan
 
 + Major: Chemistry, Math Minor
 + Senior Research: *Nuclear Magnetic Resonance Spectroscopy on Inorganic Compounds*
+
+## Consulting  
+
+**Digital Transformation and Instructional Design** | April 2018 - Present  
+*[Association of Theological Schools](https://ats.edu/), Pittsburgh, PA*  
+
++ Implement Canvas LMS for accreditation visits and member education.
++ Translate workflows to hybrid team environment.
++ Build online team spaces for visits.
++ Communicate organizational and technical changes to stakeholders.
++ Train support staff.
+
+**Solutions Architect and Lead Instructional Designer** | May 2012 - Present  
+*[Nida Institute](http://nidaschool.org), Philadelphia, PA*  
+
++ Architect implement, and administer learning management platform for global translator training.
++ Architect and implement online collaborative knowledge base for global bible translation community.
++ Design online learning spaces for hybrid and on-ground training events.
++ Technological support for events and event planning.
++ Instruction in media theory and philosophy of technology.
+
+**Design Hybrid Community Spaces** | June 2018 - June 2019  
+*[The Episcopal Church in Colorado](https://episcopalcolorado.org/), Denver, CO*  
+
++ Analyze existing community formation processes.
++ Translate existing processes into hybrid community model.
++ Build and deliver online training for community facilitators.
++ Onboard adult education staff into Canvas LMS
+
+## Technologies  
+
++ **Languages**: SQL, Python, XML, HTML, CSS, JavaScript.
++ **Databases**: MS SQL Server, MySQL, SQLite, Postgres, Informix.
++ **Platforms**: Canvas LMS, G Suite, Amazon Web Services, GitHub, Bloomfire, Slack, Zoom, Zendesk, Squarespace, Constant Contact, WordPress, Moodle, Blackboard.
++ **Tools**: git, API, markdown, pandoc, Jekyll, Jupyter.
 
 ## Publications  
 
