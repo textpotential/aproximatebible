@@ -32,7 +32,7 @@ Extract and transform 50 years of quantitative membership data and long form tex
 - Build regression models to predict and then vizualize trends in KPIs for the industry.
 - Build NLP models to analyze trends in accreditation issues and patterns across different sectors of the industry.
 
-### AI Peer Review Support | 2019 - present | _AI Institute @ Iliff_
+### AI Peer Reviewer | 2019 - present | _AI Institute @ Iliff_
 Extract and transform publicaiton data for NLP tasks such as sentiment analysis, summarization, abstraction, coherence analysis, similarity and difference. 
 
 - Collect data from web scraping (requests and beautifulSoup), APIs, and databases as needed.
