@@ -19,11 +19,9 @@ SQL (20+ years), Python (6+ years), MS SQL Server, AWS, GitHub, Pandas, regex, N
 ### Industry Trends Analytics Platform | 2021 - present | _ATS_
 Extract and transform 50 years of quantitative membership data and long form text data from accrediting reports to prepare for ML tasks such as regression analysis on member school enrollment data and topic modeling on accrediting histories.
 
-- Use SQL to extract quantitiative data, transform with python (e.g. pandas), and load into cloud data wharehouse.
+- Use SQL to extract quantitiative data, transform with python, and load into cloud data wharehouse.
 - Define metadata scheme for long form text documents.
-- Use regex and pandas to clean and prepare data for use with ML models.
-- Build regression models to predict and then visualize trends in KPIs for the industry.
-- Build NLP models to analyze trends in accreditation issues and patterns across different sectors of the industry.
+- Use regex and pandas to clean and prepare data for use with ML models for KPI trend analysis.
 
 ### Census Data Analytics Platform | 2020 - present | _Iliff_
 Extract and transform enrollment data from 4 different data sources to load into AWS (redshift, S3, quicksights, athena) for data visualizations and analytics.
@@ -37,8 +35,7 @@ Extract and transform publicaiton data for NLP tasks such as sentiment analysis,
 
 - Collect data from web scraping (requests and beautifulSoup), APIs, and databases as needed.
 - Use pandas and regex to pre-process, transform, and clean data. 
-- Tokenize or lemmatize if needed.
-- Deliver data in shape needed for model training.
+- Tokenize or lemmatize if needed and deliver data in shape needed for model training.
 
 ### AI Learning Companion | 2019 - present | _AI Institute @ Iliff_
 Extract and transform course data for fine tuning of a text generator conversational bot based on GPT-2.
@@ -79,15 +76,14 @@ __Data Integration Scientist__ | Jun 2019 - Dec 2019 | _Straight Hemp_
 
 - Design and Implement Hybrid ERP solution for warehouse management and customer support.
 - Collaborate on Python API data integration between inventory and shipping software.
-- Manage implementation project.
-- Streamline workflows and cross functional communication.
+- Manage implementation project and streamline data workflows.
 
 __Data Integration Scientist__ | Jan 2008 - Jun 2018 | _Iliff_
 
 - Administer centralized institutional database solution, including upgrades, backup and recovery, normalization, and reporting.
 - Build SQL scripts for data integration and institutional reporting.
 - Work with team to build data integration between library database and ERP using Python, SQL, and XML.
-- Migrate library database and discovery software solutions and integrate with existing institutional technologies.
+- Migrate library database and integrate with existing institutional technologies.
 - Build and lead an IT team for the institution and stabilize technological infrastructure.
 
 __Database Administrator__ | Sep 2001 - Jul 2007 | _Denver Seminary_  
