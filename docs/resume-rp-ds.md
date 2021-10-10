@@ -19,19 +19,19 @@ SQL (20+ years), Python (6+ years), MS SQL Server, AWS, GitHub, Pandas, regex, N
 ### Industry Trends Analytics Platform | 2021 - present | _ATS_
 Extract and transform 50 years of quantitative membership data and long form text data from accrediting reports to prepare for ML tasks such as regression analysis on member school enrollment data and topic modeling on accrediting histories.
 
-- Use SQL to extract quantitiative data, transform with python, and load into cloud data wharehouse.
+- Use SQL to extract quantitative data, transform with python, and load into cloud data warehouse.
 - Define metadata scheme for long form text documents.
 - Use regex and pandas to clean and prepare data for use with ML models for KPI trend analysis.
 
 ### Census Data Analytics Platform | 2020 - present | _Iliff_
-Extract and transform enrollment data from 4 different data sources to load into AWS (redshift, S3, quicksights, athena) for data visualizations and analytics.
+Extract and transform enrollment data from 4 different data sources to load into AWS (Redshift, S3, QuickSight, Athena) for data visualizations and analytics.
 
 - Integrate MS SQLServer, API, and flat file data sources.
 - Use SQL and python libraries such as sqlalchemy, pandas and regex to transform data. 
 - Use data for integration work, data visualization, longitudinal reporting, and calculating KPI trends, such as the impact of hours per student on overall tuition revenue.
 
 ### AI Peer Reviewer | 2019 - present | _AI Institute @ Iliff_
-Extract and transform publicaiton data for NLP tasks such as sentiment analysis, summarization, abstraction, coherence analysis, similarity and difference. 
+Extract and transform publication data for NLP tasks such as sentiment analysis, summarization, abstraction, coherence analysis, similarity and difference. 
 
 - Collect data from web scraping (requests and beautifulSoup), APIs, and databases as needed.
 - Use pandas and regex to pre-process, transform, and clean data. 
@@ -59,12 +59,12 @@ __Research Associate__ | Jan 2021 - present | _Case Western Reserve University_
 
 - Provide data support on NLP projects related to metaphor and machine translation.
 - Manage Git workflow for team.
-- Develop best practices for use of Microsoft HoloLens in the higher education classrooms.
+- Develop best practices for use of Microsoft HoloLens in higher education classrooms.
 
 __Data Integration Scientist__ | Jan 2109 - present | _Association of Theological Schools_
 
 - Use ETL processes to make 50 years of membership data available for data visualization and ML analysis.
-- Construct and maintain python scripts to automate API tasks with data from learning managment system.
+- Construct and maintain python scripts to automate API tasks with data from learning management system.
 
 __Data Integration Scientist__ | Jun 2019 - Dec 2019 | _Straight Hemp_
 
