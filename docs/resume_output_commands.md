@@ -1,0 +1,1 @@
+% pandoc resume-rp-ds.md --pdf-engine=xelatex -o hemenway-resume-rp.pdf -V colorlinks=true -V geometry:margin=0.5in
