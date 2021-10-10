@@ -58,7 +58,7 @@ __CIO and Data Integration Scientist__ | June 2018 - Present | _Iliff_
  
 - Develop integrated data solutions across the institution using Python, SQL, git, and AWS Cloud infrastructure.
 - Use ETL best practices with databases and APIs to make data integration and institutional reporting more robust.
-- Maintain, update, and optimize python scripts, SQL jobs, and Django applications for critical business processes. 
+- Maintain and optimize python scripts, SQL jobs, and Django applications for critical business processes. 
 - Co-founder - AI Institute and Experimental Humanities Lab (data science working group).
 - Teach workshops on data science, Python, and NLP.
 - As part of senior leadership team, articulate and implement strategic institutional vision for technologies in concert with strategic plan.
@@ -82,19 +82,15 @@ __Data Integration Scientist__ | Jun 2019 - Dec 2019 | _Straight Hemp_
 - Manage implementation project.
 - Streamline workflows and cross functional communication.
 
-__Director of Technologies__ | June 2012 - June 2018 | _Iliff_
-
-- Work with team to build data integration between library database and ERP using Python, SQL, and XML.
-- Migrate library database and discovery software solutions and integrate with existing institutional technologies.
-- Architect online learning platform and develop hybrid pedagogies for new hybrid curriculum.
-
-__Data Integration Scientist__ | January 2008 - May 2012 | _Iliff_
+__Data Integration Scientist__ | Jan 2008 - Jun 2018 | _Iliff_
 
 - Administer centralized institutional database solution, including upgrades, backup and recovery, normalization, and reporting.
 - Build SQL scripts for data integration and institutional reporting.
+- Work with team to build data integration between library database and ERP using Python, SQL, and XML.
+- Migrate library database and discovery software solutions and integrate with existing institutional technologies.
 - Build and lead an IT team for the institution and stabilize technological infrastructure.
 
-__Database Administrator__ | September 2001 - July 2007 | _Denver Seminary_  
+__Database Administrator__ | Sep 2001 - Jul 2007 | _Denver Seminary_  
 
 - Provide Informix database and application support for all departmental areas.
 - Write and manage SQL scripts to support reporting needs of the organization.
@@ -108,7 +104,7 @@ __Research Technician__ | May 1999 - May 2000 | _Eltron Research, Inc._
 
 ## EDUCATION  
 
-__Doctor of Philosophy__ | November 2017 | _University of Denver_  
+__Doctor of Philosophy__ | Nov 2017 | _University of Denver_  
 
 - Joint Doctoral Program in Religious Studies, Biblical Interpretation Concentration
 - Dissertation: _Bible as Interface_ - Considering the relationship of users and sacred texts as technological interfaces from antiquity (scrolls) into our emerging technological landscape (APIs).
@@ -120,6 +116,5 @@ __Master of Arts__ | May 2006 | _Denver Seminary_
 
 __Bachelor of Science__ | May 1997 | _University of Puget Sound_  
 
-- Major: Chemistry, Math Minor
-- Graduating Student of the Year Award
+- Major: Chemistry, Math Minor - Graduating Student of the Year Award
 - Senior Research: _Nuclear Magnetic Resonance Spectroscopy on Inorganic Compounds_
