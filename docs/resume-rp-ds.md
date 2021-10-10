@@ -54,7 +54,7 @@ As part of new ERP (Entity Resource Planning) system implementation, develop an 
 
 ## EXPERIENCE
 
-__CIO and Data Integration Scientist__ | June 2018 - Present | Iliff_
+__CIO and Data Integration Scientist__ | June 2018 - Present | _Iliff_
  
 - Architect and support the development of integrated data solutions across the institution using Python, SQL, git, and AWS Cloud infrastructure.
 - Use ETL best practices with databases and APIs to make data integration and institutional reporting more robust.
@@ -65,7 +65,6 @@ __CIO and Data Integration Scientist__ | June 2018 - Present | Iliff_
 - Teach workshops on basics of data science, Python, and NLP.
 - As part of senior leadership team, articulate and implement strategic institutional vision for technologies in concert with strategic plan.
 - Manage IT team staff, administer the IT budget, and manage the ongoing development and adaptation of technological policies.
-- Implement experimental initiatives to differentiate the institution.
 - Oversee the role of the library in the larger institution.
 
 __Research Associate__ | Jan 2021 - present | _Case Western Reserve University_
@@ -98,14 +97,12 @@ __Data Integration Scientist__ | January 2008 - May 2012 | _Iliff_
 - Administer centralized institutional database solution, including upgrades, backup and recovery, normalization, and reporting.
 - Build SQL scripts for data integration and institutional reporting.
 - Architect online course delivery solution and supported faculty course design.
-- Implement new solutions for support tickets (Zendesk) and email (G Suite).
 - Build and lead an IT team for the institution and stabilize technological infrastructure.
 
 __Database Administrator__ | September 2001 - July 2007 | _Denver Seminary_  
 
 - Provide Informix database and application support for all departmental areas.
 - Write and manage SQL scripts to support reporting needs of the organization.
-- Train staff on business applications related to institutional data.
 - Architect and implement data integration solutions within and across institutional business units.
 - Migrate Student Information System database from Informix to MS SQL Server.
 - Develop a collaborative technology team and positive support culture for the institution.
