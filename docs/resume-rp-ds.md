@@ -12,7 +12,7 @@ ETL, data integration, data mining, data analytics, machine learning (NLP, super
 
 ## TECHNOLOGIES  
 
-SQL (20+ years), Python (6+ years), XML, JSON, MS SQL Server, AWS, GitHub, Pandas, regex, NLTK, Spacy, Scikit-Learn (e.g. TF-IDF), Jupyter Notebooks, Linux, APIs
+SQL (20+ years), Python (6+ years), MS SQL Server, AWS, GitHub, Pandas, regex, NLTK, Spacy, Scikit-Learn (e.g. TF-IDF), XML, JSON, Jupyter Notebooks, Linux, APIs
     
 ## RECENT PROJECTS
 
