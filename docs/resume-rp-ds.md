@@ -43,12 +43,6 @@ Extract and transform course data for fine tuning of a text generator conversati
 - Use python to parse json API responses and to OCR PDFs to build a corpus from readings and course discussion data for use in model tuning. 
 - Pre-process data using spacy, pandas, and regex.
 
-### Inventory Data Bridge | 2019 | _Straight Hemp_
-As part of new ERP (Enterprise Resource Planning) system implementation, develop an API bridge between the inventory and shipping platforms to automate critical business workflows.
-
-- Design and implement Hybrid ERP solution for warehouse management and customer support.
-- Collaborate on building python API data integration application between inventory and shipping software.
-
 ## EXPERIENCE
 
 __CIO and Data Integration Scientist__ | June 2018 - Present | _Iliff_
