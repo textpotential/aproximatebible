@@ -1,35 +1,31 @@
----
-layout: page
-title: Hemenway Resume - Radiology Partners
-custom_css: resume
----
-
 # Michael P. Hemenway
 
-2810 S High St, Denver, CO 80210 | 303-818-1433
+2810 S High St, Denver, CO 80210 | 303-818-1433  
 [mphemenway@gmail.com](mailto:mphemenway@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michael-hemenway-06450515b/) 
 
-## Summary  
+## SUMMARY  
 
 I am a data integration scientist who uses SQL, Python, and git workflows to build sustainable data integration solutions to meet critical business needs. I have 20+ years experience administrating and integrating database systems across many diverse platforms. I have a Bachelor's degree in Chemistry and a Ph.D. in the study of Religion with a dissertation on sacred texts as technological interfaces from scrolls, to books, to APIs. I enjoy working with teams to collaboratively cultivate learning and creative problem solving toward transformational data solutions. 
 
-## Skills
+## SKILLS
 ETL, data integration, data mining, data analytics, machine learning (NLP, supervised learning, computer vision), database scripting, digital transformation
 
-## Technologies  
+## TECHNOLOGIES  
 
 SQL (20+ years), Python (6+ years), XML, JSON, MS SQL Server, AWS, GitHub, Pandas, regex, NLTK, Spacy, Scikit-Learn (e.g. TF-IDF), Jupyter Notebooks, Linux, APIs
     
-## Recent Projects
+## RECENT PROJECTS
 
 ### Census Data Analytics Platform (_Iliff_: 2020 - present)
 Extract and transform enrollment data from 4 different data sources to load into AWS (redshift, S3, quicksights, athena) for data vizualizationa and analytics
+
 - Integrate MS SQLServer, API, and flat file data sources
 - Use SQL and python libraries such as sqlalchemy, pandas and regex to transform data 
 - Use data for integration work, data vizualization, longitudinal reporting, and calculating KPI trends such as the impact of hours per student on overall tuition revenue
 
 ### Industry Trends Analytics Platform (_ATS_: 2021 - present)
 Extract and transform 50 years of quantitative membership data and long form text data from accrediting reports to prepare for ML tasks such as regression analysis on member school enrollment data and topic modeling on accrediting histories.
+
 - Use SQL to extract quantitiative data, transform with python (e.g. pandas), and load into cloud data wharehouse.
 - Define metadata scheme for long form text documents.
 - Use regex and pandas to clean and prepare data for use with ML models.
@@ -38,6 +34,7 @@ Extract and transform 50 years of quantitative membership data and long form tex
 
 ### AI Peer Review Support (_AI Institute @ Iliff_: 2019 - present)
 Extract and transform publicaiton data for NLP tasks such as sentiment analysis, summarization, abstraction, coherence analysis, similarity and difference. 
+
 - Collect data from web scraping (requests and beautifulSoup), APIs, and databases as needed.
 - Use pandas and regex to pre-process, transform, and clean data. 
 - Tokenize or lemmatize if needed.
@@ -45,15 +42,17 @@ Extract and transform publicaiton data for NLP tasks such as sentiment analysis,
 
 ### AI Learning Companion (_AI Institute @ Iliff_: 2019 - present)
 Extract and transform course data for fine tuning of a text generator conversational bot based on GPT-2.
+
 - Use python to parse json API responses and to OCR PDFs to build a corpus from readings and course discussion data for use in model tuning. 
 - Pre-process data using spacy, pandas, and regex.
 
 ### Inventory Data Bridge (_Straight Hemp_: 2019)
 As part of new ERP (Entity Resource Planning) system implementation, develop an API bridge between the inventory and shipping platforms to automate critical business workflows.
+
 - Design and implement Hybrid ERP solution for warehouse management and customer support.
 - Collaborate on building python API data integration application between inventory and shipping software.
 
-## Experience
+## EXPERIENCE
 
 __Chief Information Officer and Data Integration Scientist__ | June 2018 - Present  
 _AI Institute @ Iliff and Iliff_
@@ -124,7 +123,7 @@ _Eltron Research, Inc._
 - Design, implement, and adapt experiments using oxygen conducting ceramic materials.
 - Work with Ph.D. scientists to evaluate experimental design and develop new methodologies.
 
-## Education  
+## EDUCATION  
 
 __Doctor of Philosophy__ | November 2017  
 _University of Denver_  
