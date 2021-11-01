@@ -9,7 +9,7 @@ What do we mean by trust
 *Transparent* - Are your models explainable and your data/development practices communicated to all stakeholders?
 *Responsible* - Does your use and development of AI work to increase social good? Are you aware of the impact, both actual and possible, of your development on different sectors of society?
 *User-centered* - Do you involve the needs and input of users in all appropriate stages of your AI workflows? Is there a feedback mechanism for users to shape the design and implementation of AI?
-*Sustainable* - Are your AI practices agile enough to respond to new technologies, new social demands, and new legislation (GDPR)?
+*Sustainable* - Are your AI practices agile enough to respond to new technologies, new social demands, and new legislation (GDPR)? How does your use and development of AI impact the environment?
 *Tangible* - Are your practices ...
 
 With whom does trust matter? 
@@ -52,6 +52,7 @@ For these reasons, we propose our TRUST or T2RUS framework for AI development.
 * how do you handle when your model/system does harm? 
 * is there any governance needed for your system?
 * is privacy protected at all stages of the life-cycle
+* where is accountability built into your use and development of AI? What about unintended uses?
 
 ## User-centered
 
@@ -71,7 +72,7 @@ For these reasons, we propose our TRUST or T2RUS framework for AI development.
 * do you have a plan to address model drift (maintenance plan)
 
 
-## Together
+## Translational
 
 * Human/Human and Human/Machine
 * Trust is fundamentally relational, it is an ongoing negotiation among participants. 
@@ -79,3 +80,4 @@ For these reasons, we propose our TRUST or T2RUS framework for AI development.
 * Demands that we consider machines as partners
 * Cross-functional teams are essential to addressing the vast complex nature of issues and possibilities that may arise in AI development
 * Diverse and inclusive teams will produce better AI systems
+* Requires ongoing multidirectional translation across domains
