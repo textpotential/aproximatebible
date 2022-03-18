@@ -10,7 +10,7 @@ Over 20 years of experience in theological education as a technologist, an instr
 
 ## Skills  
 
-- Lead digital transformation process across organizations.  
+- Lead digital transformation process across organizations.
 - Architect integrated technological solutions to address complex and dynamic organizational needs.
 - Lead collaborative development teams through end to end development cycle.
 - Communicate with stakeholders and developers to facilitate shared vision, common understanding, and appropriate outcomes.
@@ -65,7 +65,7 @@ __Research Associate__ | Jan 2021 - present | _[h.lab @ Case Western Reserve Uni
 - Develop best practices for use of Microsoft HoloLens in higher education classrooms.
 
 
-__Director and Machine Advocate__ | January 2019 - 2021 | _[ai.iliff](https://ai.iliff.edu), Denver, CO_
+__Director and Machine Advocate__ | January 2019 - 2021 | _[ai.iliff](https://ai.iliff.edu)_
  
 - Direct the overall strategy of the insitute to build a trust based AI ecosystem through conversation, curriculum, and code.
 - Build strategic partnerships inside and outside the academy.
