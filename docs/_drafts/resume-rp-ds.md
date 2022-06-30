@@ -61,7 +61,7 @@ __Research Associate__ | Jan 2021 - present | _Case Western Reserve University_
 - Manage Git workflow for team.
 - Develop best practices for use of Microsoft HoloLens in higher education classrooms.
 
-__Data Integration Scientist__ | Jan 2109 - present | _Association of Theological Schools_
+__Data Integration Scientist__ | Jan 2019 - present | _Association of Theological Schools_
 
 - Use ETL processes to make 50 years of membership data available for data visualization and ML analysis.
 - Construct and maintain python scripts to automate API tasks with data from learning management system.

@@ -81,10 +81,10 @@ I collaborate with organizations to translate complex business needs into elegan
 
 ## Employment  
 
-**Director and Machine Advocate** | January 2019 - Present  
+**Socio-technical Engineer** | January 2019 - Present  
 *[ai.iliff](http://ai.iliff.edu), Denver, CO* 
  
-+ Direct the overall strategy of the insitute to build a trust based AI ecosystem through conversation, curriculum, and code.
++ Build a trust based AI ecosystem through conversation, curriculum, and code.
 + Build strategic partnerships inside and outside the academy.
 + Recruit talent and build cross functional teams to support trust based AI design. 
 + Design AI products for online learning.
